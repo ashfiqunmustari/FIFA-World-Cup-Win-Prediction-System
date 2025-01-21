@@ -1,0 +1,917 @@
+Year,Stage,Stadium,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Referee,Home Team Initials,Away Team Initials
+1930,Group 1,Pocitos,France,4,1,Mexico,LOMBARDI Domingo (URU),FRA,MEX
+1930,Group 4,Parque Central,USA,3,0,Belgium,MACIAS Jose (ARG),USA,BEL
+1930,Group 2,Parque Central,Yugoslavia,2,1,Brazil,TEJADA Anibal (URU),YUG,BRA
+1930,Group 3,Pocitos,Romania,3,1,Peru,WARNKEN Alberto (CHI),ROU,PER
+1930,Group 1,Parque Central,Argentina,1,0,France,REGO Gilberto (BRA),ARG,FRA
+1930,Group 1,Parque Central,Chile,3,0,Mexico,CRISTOPHE Henry (BEL),CHI,MEX
+1930,Group 2,Parque Central,Yugoslavia,4,0,Bolivia,MATEUCCI Francisco (URU),YUG,BOL
+1930,Group 4,Parque Central,USA,3,0,Paraguay,MACIAS Jose (ARG),USA,PAR
+1930,Group 3,Estadio Centenario,Uruguay,1,0,Peru,LANGENUS Jean (BEL),URU,PER
+1930,Group 1,Estadio Centenario,Chile,1,0,France,TEJADA Anibal (URU),CHI,FRA
+1930,Group 1,Estadio Centenario,Argentina,6,3,Mexico,SAUCEDO Ulises (BOL),ARG,MEX
+1930,Group 2,Estadio Centenario,Brazil,4,0,Bolivia,BALWAY Thomas (FRA),BRA,BOL
+1930,Group 4,Estadio Centenario,Paraguay,1,0,Belgium,VALLARINO Ricardo (URU),PAR,BEL
+1930,Group 3,Estadio Centenario,Uruguay,4,0,Romania,REGO Gilberto (BRA),URU,ROU
+1930,Group 1,Estadio Centenario,Argentina,3,1,Chile,LANGENUS Jean (BEL),ARG,CHI
+1930,Semi-finals,Estadio Centenario,Argentina,6,1,USA,LANGENUS Jean (BEL),ARG,USA
+1930,Semi-finals,Estadio Centenario,Uruguay,6,1,Yugoslavia,REGO Gilberto (BRA),URU,YUG
+1930,Final,Estadio Centenario,Uruguay,4,2,Argentina,LANGENUS Jean (BEL),URU,ARG
+1934,Preliminary round,Stadio Benito Mussolini,Austria,3,2,France,VAN MOORSEL Johannes (NED),AUT,FRA
+1934,Preliminary round,Giorgio Ascarelli,Hungary,4,2,Egypt,BARLASSINA Rinaldo (ITA),HUN,EGY
+1934,Preliminary round,San Siro,Switzerland,3,2,Netherlands,EKLIND Ivan (SWE),SUI,NED
+1934,Preliminary round,Littorale,Sweden,3,2,Argentina,BRAUN Eugen (AUT),SWE,ARG
+1934,Preliminary round,Giovanni Berta,Germany,5,2,Belgium,MATTEA Francesco (ITA),GER,BEL
+1934,Preliminary round,Luigi Ferraris,Spain,3,1,Brazil,BIRLEM Alfred (GER),ESP,BRA
+1934,Preliminary round,Nazionale PNF,Italy,7,1,USA,MERCET Rene (SUI),ITA,USA
+1934,Preliminary round,Littorio,Czechoslovakia,2,1,Romania,LANGENUS Jean (BEL),TCH,ROU
+1934,Quarter-finals,Stadio Benito Mussolini,Czechoslovakia,3,2,Switzerland,BERANEK Alois (AUT),TCH,SUI
+1934,Quarter-finals,San Siro,Germany,2,1,Sweden,BARLASSINA Rinaldo (ITA),GER,SWE
+1934,Quarter-finals,Giovanni Berta,Italy,1,1,Spain,BAERT Louis (BEL),ITA,ESP
+1934,Quarter-finals,Littorale,Austria,2,1,Hungary,MATTEA Francesco (ITA),AUT,HUN
+1934,Quarter-finals,Giovanni Berta,Italy,1,0,Spain,MERCET Rene (SUI),ITA,ESP
+1934,Semi-finals,San Siro,Italy,1,0,Austria,EKLIND Ivan (SWE),ITA,AUT
+1934,Semi-finals,Nazionale PNF,Czechoslovakia,3,1,Germany,BARLASSINA Rinaldo (ITA),TCH,GER
+1934,Match for third place,Giorgio Ascarelli,Germany,3,2,Austria,CARRARO Albino (ITA),GER,AUT
+1934,Final,Nazionale PNF,Italy,2,1,Czechoslovakia,EKLIND Ivan (SWE),ITA,TCH
+1938,First round,Parc des Princes,Switzerland,1,1,Germany,LANGENUS Jean (BEL),SUI,GER
+1938,First round,Velodrome Municipale,Hungary,6,0,Dutch East Indies,CONRIE Roger (FRA),HUN,INH
+1938,First round,Stade Olympique,France,3,1,Belgium,WUETHRICH Hans (SUI),FRA,BEL
+1938,First round,Stade Municipal,Cuba,3,3,Romania,SCARPI Giuseppe (ITA),CUB,ROU
+1938,First round,Stade Vï¿½lodrome,Italy,2,1,Norway,BERANEK Alois (AUT),ITA,NOR
+1938,First round,Stade de la Meinau,Brazil,6,5,Poland,EKLIND Ivan (SWE),BRA,POL
+1938,First round,Cavee Verte,Czechoslovakia,3,0,Netherlands,LECLERCQ Lucien (FRA),TCH,NED
+1938,First round,Stade Municipal,Cuba,2,1,Romania,BIRLEM Alfred (GER),CUB,ROU
+1938,First round,Parc des Princes,Switzerland,4,2,Germany,EKLIND Ivan (SWE),SUI,GER
+1938,Quarter-finals,Stade du Parc Lescure,Brazil,1,1,Czechoslovakia,VON HERTZKA Pal (HUN),BRA,TCH
+1938,Quarter-finals,Victor Boucquey,Hungary,2,0,Switzerland,BARLASSINA Rinaldo (ITA),HUN,SUI
+1938,Quarter-finals,Fort Carree,Sweden,8,0,Cuba,KRIST Gustav (TCH),SWE,CUB
+1938,Quarter-finals,Stade Olympique,Italy,3,1,France,BAERT Louis (BEL),ITA,FRA
+1938,Quarter-finals,Stade du Parc Lescure,Brazil,2,1,Czechoslovakia,CAPDEVILLE Georges (FRA),BRA,TCH
+1938,Semi-finals,Parc des Princes,Hungary,5,1,Sweden,LECLERCQ Lucien (FRA),HUN,SWE
+1938,Semi-finals,Stade Vï¿½lodrome,Italy,2,1,Brazil,WUETHRICH Hans (SUI),ITA,BRA
+1938,Match for third place,Stade du Parc Lescure,Brazil,4,2,Sweden,LANGENUS Jean (BEL),BRA,SWE
+1938,Final,Stade Olympique,Italy,4,2,Hungary,CAPDEVILLE Georges (FRA),ITA,HUN
+1950,Group 1,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,Brazil,4,0,Mexico,READER George (ENG),BRA,MEX
+1950,Group 2,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,England,2,0,Chile,VAN DER MEER Karel (NED),ENG,CHI
+1950,Group 2,Durival de Brito,Spain,3,1,USA,VIANA Mario (BRA),ESP,USA
+1950,Group 3,Pacaembu,Sweden,3,2,Italy,LUTZ Jean (SUI),SWE,ITA
+1950,Group 1,Independencia,Yugoslavia,3,0,Switzerland,GALEATI Giovanni (ITA),YUG,SUI
+1950,Group 1,Pacaembu,Brazil,2,2,Switzerland,AZON ROMA Ramon (ESP),BRA,SUI
+1950,Group 1,Eucaliptos,Yugoslavia,4,1,Mexico,LEAFE Reginald (ENG),YUG,MEX
+1950,Group 2,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,Spain,2,0,Chile,MALCHER Alberto (BRA),ESP,CHI
+1950,Group 3,Durival de Brito,Sweden,2,2,Paraguay,MITCHELL Robert (SCO),SWE,PAR
+1950,Group 2,Independencia,USA,1,0,England,DATTILO Generoso (ITA),USA,ENG
+1950,Group 1,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,Brazil,2,0,Yugoslavia,GRIFFITHS Benjamin (WAL),BRA,YUG
+1950,Group 2,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,Spain,1,0,England,GALEATI Giovanni (ITA),ESP,ENG
+1950,Group 3,Pacaembu,Italy,2,0,Paraguay,ELLIS Arthur (ENG),ITA,PAR
+1950,Group 4,Independencia,Uruguay,8,0,Bolivia,READER George (ENG),URU,BOL
+1950,Group 1,Eucaliptos,Switzerland,2,1,Mexico,EKLIND Ivan (SWE),SUI,MEX
+1950,Group 2,Ilha do Retiro,Chile,5,2,USA,GARDELLI Mario (BRA),CHI,USA
+1950,Group 6,Pacaembu,Uruguay,2,2,Spain,GRIFFITHS Benjamin (WAL),URU,ESP
+1950,Group 6,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,Brazil,7,1,Sweden,ELLIS Arthur (ENG),BRA,SWE
+1950,Group 6,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,Brazil,6,1,Spain,LEAFE Reginald (ENG),BRA,ESP
+1950,Group 6,Pacaembu,Uruguay,3,2,Sweden,GALEATI Giovanni (ITA),URU,SWE
+1950,Group 6,Pacaembu,Sweden,3,1,Spain,VAN DER MEER Karel (NED),SWE,ESP
+1950,Group 6,Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho,Uruguay,2,1,Brazil,READER George (ENG),URU,BRA
+1954,Group 3,Wankdorf Stadium,Uruguay,2,0,Czechoslovakia,ELLIS Arthur (ENG),URU,TCH
+1954,Group 3,Hardturm,Austria,1,0,Scotland,FRANKEN Laurent (BEL),AUT,SCO
+1954,Group 1,Charmilles,Brazil,5,0,Mexico,WYSSLING Paul (SUI),BRA,MEX
+1954,Group 1,La Pontaise,Yugoslavia,1,0,France,GRIFFITHS Benjamin (WAL),YUG,FRA
+1954,Group 2,Wankdorf Stadium,Germany FR,4,1,Turkey,DA COSTA VIEIRA Jose (POR),FRG,TUR
+1954,Group 2,Hardturm,Hungary,9,0,Korea Republic,VINCENTI Raymond (FRA),HUN,KOR
+1954,Group 4,St. Jakob,England,4,4,Belgium,SCHMETZER Emil (FRG),ENG,BEL
+1954,Group 4,La Pontaise,Switzerland,2,1,Italy,VIANA Mario (BRA),SUI,ITA
+1954,Group 3,St. Jakob,Uruguay,7,0,Scotland,ORLANDINI Vincenzo (ITA),URU,SCO
+1954,Group 3,Hardturm,Austria,5,0,Czechoslovakia,STEFANOVIC Vasa (YUG),AUT,TCH
+1954,Group 1,Charmilles,France,3,2,Mexico,ASENSI Manuel (ESP),FRA,MEX
+1954,Group 1,La Pontaise,Brazil,1,1,Yugoslavia,FAULTLESS Charlie (SCO),BRA,YUG
+1954,Group 2,St. Jakob,Hungary,8,3,Germany FR,LING William (ENG),HUN,FRG
+1954,Group 2,Charmilles,Turkey,7,0,Korea Republic,MARINO Esteban (URU),TUR,KOR
+1954,Group 4,Wankdorf Stadium,England,2,0,Switzerland,ZSOLT Istvan (HUN),ENG,SUI
+1954,Group 4,Comunale di Cornaredo,Italy,4,1,Belgium,STEINER Carl (AUT),ITA,BEL
+1954,Group 2,Hardturm,Germany FR,7,2,Turkey,VINCENTI Raymond (FRA),FRG,TUR
+1954,Group 4,St. Jakob,Switzerland,4,1,Italy,GRIFFITHS Benjamin (WAL),SUI,ITA
+1954,Quarter-finals,St. Jakob,Uruguay,4,2,England,STEINER Carl (AUT),URU,ENG
+1954,Quarter-finals,La Pontaise,Austria,7,5,Switzerland,FAULTLESS Charlie (SCO),AUT,SUI
+1954,Quarter-finals,Charmilles,Germany FR,2,0,Yugoslavia,ZSOLT Istvan (HUN),FRG,YUG
+1954,Quarter-finals,Wankdorf Stadium,Hungary,4,2,Brazil,ELLIS Arthur (ENG),HUN,BRA
+1954,Semi-finals,St. Jakob,Germany FR,6,1,Austria,ORLANDINI Vincenzo (ITA),FRG,AUT
+1954,Semi-finals,La Pontaise,Hungary,4,2,Uruguay,GRIFFITHS Benjamin (WAL),HUN,URU
+1954,Match for third place,Hardturm,Austria,3,1,Uruguay,WYSSLING Paul (SUI),AUT,URU
+1954,Final,Wankdorf Stadium,Germany FR,3,2,Hungary,LING William (ENG),FRG,HUN
+1958,Group 3,Rasunda Stadium,Sweden,3,0,Mexico,LATYCHEV Nikolaj (URS),SWE,MEX
+1958,Group 4,Nya Ullevi,Soviet Union,2,2,England,ZSOLT Istvan (HUN),URS,ENG
+1958,Group 1,Malmo Stadion,Argentina,1,3,Germany FR,LEAFE Reginald (ENG),ARG,FRG
+1958,Group 3,Jarnvallen,Hungary,1,1,Wales,CODESAL Jose Maria (URU),HUN,WAL
+1958,Group 2,Idrottsparken,France,7,3,Paraguay,GARDEAZABAL Juan (ESP),FRA,PAR
+1958,Group 2,Arosvallen,Yugoslavia,1,1,Scotland,WYSSLING Paul (SUI),YUG,SCO
+1958,Group 4,Rimnersvallen,Brazil,3,0,Austria,GUIGUE Maurice (FRA),BRA,AUT
+1958,Group 1,Orjans Vall,Northern Ireland,1,0,Czechoslovakia,SEIPELT Fritz (AUT),NIR,TCH
+1958,Group 4,Nya Ullevi,Brazil,0,0,England,DUSCH Albert (GER),BRA,ENG
+1958,Group 3,Rasunda Stadium,Mexico,1,1,Wales,LEMESIC Leo (YUG),MEX,WAL
+1958,Group 2,Idrottsparken,Paraguay,3,2,Scotland,ORLANDINI Vincenzo (ITA),PAR,SCO
+1958,Group 2,Arosvallen,Yugoslavia,3,2,France,GRIFFITHS Benjamin (WAL),YUG,FRA
+1958,Group 4,Ryavallen,Soviet Union,2,0,Austria,JORGENSEN Carl Frederik (DEN),URS,AUT
+1958,Group 1,Olympia Stadium,Germany FR,2,2,Czechoslovakia,ELLIS Arthur (ENG),FRG,TCH
+1958,Group 1,Orjans Vall,Argentina,3,1,Northern Ireland,AHLNER Sten (SWE),ARG,NIR
+1958,Group 3,Rasunda Stadium,Sweden,2,1,Hungary,MOWAT Jack (SCO),SWE,HUN
+1958,Group 3,Rasunda Stadium,Sweden,0,0,Wales,VAN NUFFEL Lucien (BEL),SWE,WAL
+1958,Group 4,Nya Ullevi,Brazil,2,0,Soviet Union,GUIGUE Maurice (FRA),BRA,URS
+1958,Group 1,Malmo Stadion,Germany FR,2,2,Northern Ireland,FERNANDES CAMPOS Joaquim (POR),FRG,NIR
+1958,Group 3,Jarnvallen,Hungary,4,0,Mexico,ERIKSSON Arne (FIN),HUN,MEX
+1958,Group 2,Tunavallen,Paraguay,3,3,Yugoslavia,MACKO Martin (TCH),PAR,YUG
+1958,Group 2,Eyravallen,France,2,1,Scotland,BROZZI Juan (ARG),FRA,SCO
+1958,Group 4,Ryavallen,England,2,2,Austria,BRONKHORST Jan (NED),ENG,AUT
+1958,Group 1,Olympia Stadium,Czechoslovakia,6,1,Argentina,ELLIS Arthur (ENG),TCH,ARG
+1958,Group 4,Nya Ullevi,Soviet Union,1,0,England,DUSCH Albert (GER),URS,ENG
+1958,Group 1,Malmo Stadion,Northern Ireland,2,1,Czechoslovakia,GUIGUE Maurice (FRA),NIR,TCH
+1958,Group 3,Rasunda Stadium,Wales,2,1,Hungary,LATYCHEV Nikolaj (URS),WAL,HUN
+1958,Quarter-finals,Nya Ullevi,Brazil,1,0,Wales,SEIPELT Fritz (AUT),BRA,WAL
+1958,Quarter-finals,Malmo Stadion,Germany FR,1,0,Yugoslavia,WYSSLING Paul (SUI),FRG,YUG
+1958,Quarter-finals,Rasunda Stadium,Sweden,2,0,Soviet Union,LEAFE Reginald (ENG),SWE,URS
+1958,Quarter-finals,Idrottsparken,France,4,0,Northern Ireland,GARDEAZABAL Juan (ESP),FRA,NIR
+1958,Semi-finals,Nya Ullevi,Sweden,3,1,Germany FR,ZSOLT Istvan (HUN),SWE,FRG
+1958,Semi-finals,Rasunda Stadium,Brazil,5,2,France,GRIFFITHS Benjamin (WAL),BRA,FRA
+1958,Match for third place,Nya Ullevi,France,6,3,Germany FR,BROZZI Juan (ARG),FRA,FRG
+1958,Final,Rasunda Stadium,Brazil,5,2,Sweden,GUIGUE Maurice (FRA),BRA,SWE
+1962,Group 1,Carlos Dittborn,Uruguay,2,1,Colombia,DOROGI Andor (HUN),URU,COL
+1962,Group 3,Estadio Sausalito,Brazil,2,0,Mexico,DIENST Gottfried (SUI),BRA,MEX
+1962,Group 4,Estadio El Teniente-Codelco,Argentina,1,0,Bulgaria,GARDEAZABAL Juan (ESP),ARG,BUL
+1962,Group 2,Nacional,Chile,3,1,Switzerland,ASTON Ken (ENG),CHI,SUI
+1962,Group 1,Carlos Dittborn,Soviet Union,2,0,Yugoslavia,DUSCH Albert (GER),URS,YUG
+1962,Group 3,Estadio Sausalito,Czechoslovakia,1,0,Spain,STEINER Carl (AUT),TCH,ESP
+1962,Group 4,Estadio El Teniente-Codelco,Hungary,2,1,England,HORN Leo (NED),HUN,ENG
+1962,Group 2,Nacional,Germany FR,0,0,Italy,DAVIDSON Bob (SCO),FRG,ITA
+1962,Group 1,Carlos Dittborn,Yugoslavia,3,1,Uruguay,GALBA Karol (TCH),YUG,URU
+1962,Group 3,Estadio Sausalito,Brazil,0,0,Czechoslovakia,SCHWINTE Pierre (FRA),BRA,TCH
+1962,Group 4,Estadio El Teniente-Codelco,England,3,1,Argentina,LATYCHEV Nikolaj (URS),ENG,ARG
+1962,Group 2,Nacional,Chile,2,0,Italy,ASTON Ken (ENG),CHI,ITA
+1962,Group 1,Carlos Dittborn,Soviet Union,4,4,Colombia,ETZEL FILHO Joao (BRA),URS,COL
+1962,Group 3,Estadio Sausalito,Spain,1,0,Mexico,TESANIC Branko (YUG),ESP,MEX
+1962,Group 4,Estadio El Teniente-Codelco,Hungary,6,1,Bulgaria,GARDEAZABAL Juan (ESP),HUN,BUL
+1962,Group 2,Nacional,Germany FR,2,1,Switzerland,HORN Leo (NED),FRG,SUI
+1962,Group 1,Carlos Dittborn,Soviet Union,2,1,Uruguay,JONNI Cesare (ITA),URS,URU
+1962,Group 3,Estadio Sausalito,Brazil,2,1,Spain,BUSTAMANTE Sergio (CHI),BRA,ESP
+1962,Group 4,Estadio El Teniente-Codelco,Hungary,0,0,Argentina,YAMASAKI MALDONADO Arturo (MEX),HUN,ARG
+1962,Group 2,Nacional,Germany FR,2,0,Chile,DAVIDSON Bob (SCO),FRG,CHI
+1962,Group 1,Carlos Dittborn,Yugoslavia,5,0,Colombia,ROBLES Carlos (CHI),YUG,COL
+1962,Group 3,Estadio Sausalito,Mexico,3,1,Czechoslovakia,DIENST Gottfried (SUI),MEX,TCH
+1962,Group 4,Estadio El Teniente-Codelco,England,0,0,Bulgaria,BLAVIER Arthur (BEL),ENG,BUL
+1962,Group 2,Nacional,Italy,3,0,Switzerland,LATYCHEV Nikolaj (URS),ITA,SUI
+1962,Quarter-finals,Carlos Dittborn,Chile,2,1,Soviet Union,HORN Leo (NED),CHI,URS
+1962,Quarter-finals,Estadio Sausalito,Brazil,3,1,England,SCHWINTE Pierre (FRA),BRA,ENG
+1962,Quarter-finals,Estadio El Teniente-Codelco,Czechoslovakia,1,0,Hungary,LATYCHEV Nikolaj (URS),TCH,HUN
+1962,Quarter-finals,Nacional,Yugoslavia,1,0,Germany FR,YAMASAKI MALDONADO Arturo (MEX),YUG,FRG
+1962,Semi-finals,Estadio Sausalito,Czechoslovakia,3,1,Yugoslavia,DIENST Gottfried (SUI),TCH,YUG
+1962,Semi-finals,Nacional,Brazil,4,2,Chile,YAMASAKI MALDONADO Arturo (MEX),BRA,CHI
+1962,Match for third place,Nacional,Chile,1,0,Yugoslavia,GARDEAZABAL Juan (ESP),CHI,YUG
+1962,Final,Nacional,Brazil,3,1,Czechoslovakia,LATYCHEV Nikolaj (URS),BRA,TCH
+1966,Group 1,Wembley Stadium,England,0,0,Uruguay,ZSOLT Istvan (HUN),ENG,URU
+1966,Group 2,Hillsborough,Germany FR,5,0,Switzerland,PHILLIPS Hugh (SCO),FRG,SUI
+1966,Group 3,Goodison Park,Brazil,2,0,Bulgaria,TSCHENSCHER Kurt (GER),BRA,BUL
+1966,Group 4,Ayresome Park,Soviet Union,3,0,Korea DPR,GARDEAZABAL Juan (ESP),URS,PRK
+1966,Group 1,Wembley Stadium,France,1,1,Mexico,ASHKENAZI Menachem (ISR),FRA,MEX
+1966,Group 3,Old Trafford Stadium,Portugal,3,1,Hungary,CALLAGHAN Leo (WAL),POR,HUN
+1966,Group 2,Villa Park,Argentina,2,1,Spain,RUMENTCHEV Dimitar (BUL),ARG,ESP
+1966,Group 4,Roker Park Ground,Italy,2,0,Chile,DIENST Gottfried (SUI),ITA,CHI
+1966,Group 1,White City,Uruguay,2,1,France,GALBA Karol (TCH),URU,FRA
+1966,Group 2,Hillsborough,Spain,2,1,Switzerland,BAKHRAMOV Tofik (URS),ESP,SUI
+1966,Group 3,Goodison Park,Hungary,3,1,Brazil,DAGNALL Kenneth (ENG),HUN,BRA
+1966,Group 4,Ayresome Park,Korea DPR,1,1,Chile,KANDIL Aly Hussein (EGY),PRK,CHI
+1966,Group 3,Old Trafford Stadium,Portugal,3,0,Bulgaria,CODESAL Jose Maria (URU),POR,BUL
+1966,Group 2,Villa Park,Germany FR,0,0,Argentina,ZECEVIC Konstantin (YUG),FRG,ARG
+1966,Group 4,Roker Park Ground,Soviet Union,1,0,Italy,KREITLEIN Rudolf (GER),URS,ITA
+1966,Group 1,Wembley Stadium,England,2,0,Mexico,LO BELLO Concetto (ITA),ENG,MEX
+1966,Group 1,Wembley Stadium,Uruguay,0,0,Mexico,LOEOEW Bertil (SWE),URU,MEX
+1966,Group 2,Hillsborough,Argentina,2,0,Switzerland,FERNANDES CAMPOS Joaquim (POR),ARG,SUI
+1966,Group 3,Goodison Park,Portugal,3,1,Brazil,McCABE George (ENG),POR,BRA
+1966,Group 4,Ayresome Park,Korea DPR,1,0,Italy,SCHWINTE Pierre (FRA),PRK,ITA
+1966,Group 1,Wembley Stadium,England,2,0,France,YAMASAKI MALDONADO Arturo (MEX),ENG,FRA
+1966,Group 3,Old Trafford Stadium,Hungary,3,1,Bulgaria,GOICOECHEA Roberto (ARG),HUN,BUL
+1966,Group 2,Villa Park,Germany FR,2,1,Spain,MARQUES Armando (BRA),FRG,ESP
+1966,Group 4,Roker Park Ground,Soviet Union,2,1,Chile,ADAIR John (NIR),URS,CHI
+1966,Quarter-finals,Wembley Stadium,England,1,0,Argentina,KREITLEIN Rudolf (GER),ENG,ARG
+1966,Quarter-finals,Hillsborough,Germany FR,4,0,Uruguay,FINNEY Jim (ENG),FRG,URU
+1966,Quarter-finals,Roker Park Ground,Soviet Union,2,1,Hungary,GARDEAZABAL Juan (ESP),URS,HUN
+1966,Quarter-finals,Goodison Park,Portugal,5,3,Korea DPR,ASHKENAZI Menachem (ISR),POR,PRK
+1966,Semi-finals,Goodison Park,Germany FR,2,1,Soviet Union,LO BELLO Concetto (ITA),FRG,URS
+1966,Semi-finals,Wembley Stadium,England,2,1,Portugal,SCHWINTE Pierre (FRA),ENG,POR
+1966,Match for third place,Wembley Stadium,Portugal,2,1,Soviet Union,DAGNALL Kenneth (ENG),POR,URS
+1966,Final,Wembley Stadium,England,4,2,Germany FR,DIENST Gottfried (SUI),ENG,FRG
+1970,Group 1,Estadio Azteca,Mexico,0,0,Soviet Union,TSCHENSCHER Kurt (GER),MEX,URS
+1970,Group 2,Cuauhtemoc,Uruguay,2,0,Israel,DAVIDSON Bob (SCO),URU,ISR
+1970,Group 4,Nou Camp - Estadio Leï¿½n,Peru,3,2,Bulgaria,SBARDELLA Antonio (ITA),PER,BUL
+1970,Group 3,Jalisco,England,1,0,Romania,LORAUX Vital (BEL),ENG,ROU
+1970,Group 2,Luis Dosal,Italy,1,0,Sweden,TAYLOR John (ENG),ITA,SWE
+1970,Group 4,Nou Camp - Estadio Leï¿½n,Germany FR,2,1,Morocco,VAN RAVENS Laurens (NED),FRG,MAR
+1970,Group 3,Jalisco,Brazil,4,1,Czechoslovakia,BARRETO RUIZ Ramon (URU),BRA,TCH
+1970,Group 1,Estadio Azteca,Belgium,3,0,El Salvador,RADULESCU Andrei (ROU),BEL,SLV
+1970,Group 2,Cuauhtemoc,Uruguay,0,0,Italy,GLOECKNER Rudolf (GDR),URU,ITA
+1970,Group 4,Nou Camp - Estadio Leï¿½n,Peru,3,0,Morocco,BAKHRAMOV Tofik (URS),PER,MAR
+1970,Group 3,Jalisco,Romania,2,1,Czechoslovakia,DE LEO Diego (MEX),ROU,TCH
+1970,Group 1,Estadio Azteca,Soviet Union,4,1,Belgium,SCHEURER Ruedi (SUI),URS,BEL
+1970,Group 2,Luis Dosal,Sweden,1,1,Israel,TAREKEGN Seyoum (ETH),SWE,ISR
+1970,Group 4,Nou Camp - Estadio Leï¿½n,Germany FR,5,2,Bulgaria,ORTIZ DE MENDIBIL Jose Maria (ESP),FRG,BUL
+1970,Group 3,Jalisco,Brazil,1,0,England,KLEIN Abraham (ISR),BRA,ENG
+1970,Group 1,Estadio Azteca,Mexico,4,0,El Salvador,KANDIL Aly Hussein (EGY),MEX,SLV
+1970,Group 2,Cuauhtemoc,Sweden,1,0,Uruguay,LANDAUER Henry (USA),SWE,URU
+1970,Group 4,Nou Camp - Estadio Leï¿½n,Germany FR,3,1,Peru,AGUILAR ELIZALDE Abel (MEX),FRG,PER
+1970,Group 3,Jalisco,Brazil,3,2,Romania,MARSCHALL Ferdinand (AUT),BRA,ROU
+1970,Group 1,Estadio Azteca,Soviet Union,2,0,El Salvador,HORMAZABAL DIAZ Rafael (CHI),URS,SLV
+1970,Group 2,Luis Dosal,Italy,0,0,Israel,DE MORAES Ayrton Vieira (BRA),ITA,ISR
+1970,Group 4,Nou Camp - Estadio Leï¿½n,Bulgaria,1,1,Morocco,SALDANHA RIBEIRO Antonio (POR),BUL,MAR
+1970,Group 3,Jalisco,England,1,0,Czechoslovakia,MACHIN Roger (FRA),ENG,TCH
+1970,Group 1,Estadio Azteca,Mexico,1,0,Belgium,COEREZZA Norberto Angel (ARG),MEX,BEL
+1970,Quarter-finals,Luis Dosal,Italy,4,1,Mexico,SCHEURER Ruedi (SUI),ITA,MEX
+1970,Quarter-finals,Nou Camp - Estadio Leï¿½n,Germany FR,3,2,England,COEREZZA Norberto Angel (ARG),FRG,ENG
+1970,Quarter-finals,Jalisco,Brazil,4,2,Peru,LORAUX Vital (BEL),BRA,PER
+1970,Quarter-finals,Estadio Azteca,Uruguay,1,0,Soviet Union,VAN RAVENS Laurens (NED),URU,URS
+1970,Semi-finals,Jalisco,Brazil,3,1,Uruguay,ORTIZ DE MENDIBIL Jose Maria (ESP),BRA,URU
+1970,Semi-finals,Estadio Azteca,Italy,4,3,Germany FR,YAMASAKI MALDONADO Arturo (MEX),ITA,FRG
+1970,Match for third place,Estadio Azteca,Germany FR,1,0,Uruguay,SBARDELLA Antonio (ITA),FRG,URU
+1970,Final,Estadio Azteca,Brazil,4,1,Italy,GLOECKNER Rudolf (GDR),BRA,ITA
+1974,Group 2,Waldstadion,Brazil,0,0,Yugoslavia,SCHEURER Ruedi (SUI),BRA,YUG
+1974,Group 1,Olympiastadion,Germany FR,1,0,Chile,BABACAN Dogan (TUR),FRG,CHI
+1974,Group 1,Volksparkstadion,German DR,2,0,Australia,NDIAYE Youssou (SEN),GDR,AUS
+1974,Group 2,Westfalenstadion,Zaire,0,2,Scotland,SCHULENBURG Gerhard (GER),ZAI,SCO
+1974,Group 3,Niedersachsenstadion,Uruguay,0,2,Netherlands,PALOTAI Karoly (HUN),URU,NED
+1974,Group 3,Rheinstadion,Sweden,0,0,Bulgaria,PEREZ NUNEZ Edison A. (PER),SWE,BUL
+1974,Group 4,Olympiastadion,Italy,3,1,Haiti,LLOBREGAT Vicente (VEN),ITA,HAI
+1974,Group 4,Neckarstadion,Poland,3,2,Argentina,THOMAS Clive (WAL),POL,ARG
+1974,Group 1,Volksparkstadion,Australia,0,3,Germany FR,KAMEL Mahmoud (EGY),AUS,FRG
+1974,Group 2,Waldstadion,Scotland,0,0,Brazil,VAN GEMERT Arie (NED),SCO,BRA
+1974,Group 1,Olympiastadion,Chile,1,1,German DR,ANGONESE Aurelio (ITA),CHI,GDR
+1974,Group 2,Parkstadion,Yugoslavia,9,0,Zaire,DELGADO Omar (COL),YUG,ZAI
+1974,Group 3,Westfalenstadion,Netherlands,0,0,Sweden,WINSEMANN Werner (CAN),NED,SWE
+1974,Group 3,Niedersachsenstadion,Bulgaria,1,1,Uruguay,TAYLOR John (ENG),BUL,URU
+1974,Group 4,Olympiastadion,Haiti,0,7,Poland,SUPPIAH George (SIN),HAI,POL
+1974,Group 4,Neckarstadion,Argentina,1,1,Italy,KAZAKOV Pavel (URS),ARG,ITA
+1974,Group 2,Waldstadion,Scotland,1,1,Yugoslavia,GONZALEZ ARCHUNDIA Alfonso (MEX),SCO,YUG
+1974,Group 1,Olympiastadion,Australia,0,0,Chile,NAMDAR Jafar (IRN),AUS,CHI
+1974,Group 2,Parkstadion,Zaire,0,3,Brazil,RAINEA Nicolae (ROU),ZAI,BRA
+1974,Group 1,Volksparkstadion,German DR,1,0,Germany FR,BARRETO RUIZ Ramon (URU),GDR,FRG
+1974,Group 3,Westfalenstadion,Bulgaria,1,4,Netherlands,BOSKOVIC Tony (AUS),BUL,NED
+1974,Group 4,Olympiastadion,Argentina,4,1,Haiti,SANCHEZ IBANEZ Pablo (ESP),ARG,HAI
+1974,Group 3,Rheinstadion,Sweden,3,0,Uruguay,LINEMAYR Erich (AUT),SWE,URU
+1974,Group 4,Neckarstadion,Poland,2,1,Italy,WEYLAND Hans Joachim (FRG),POL,ITA
+1974,Group B,Rheinstadion,Yugoslavia,0,2,Germany FR,MARQUES Armando (BRA),YUG,FRG
+1974,Group A,Niedersachsenstadion,Brazil,1,0,German DR,THOMAS Clive (WAL),BRA,GDR
+1974,Group A,Parkstadion,Netherlands,4,0,Argentina,DAVIDSON Bob (SCO),NED,ARG
+1974,Group B,Neckarstadion,Sweden,0,1,Poland,BARRETO RUIZ Ramon (URU),SWE,POL
+1974,Group A,Niedersachsenstadion,Argentina,1,2,Brazil,LORAUX Vital (BEL),ARG,BRA
+1974,Group B,Waldstadion,Poland,2,1,Yugoslavia,GLOECKNER Rudolf (GDR),POL,YUG
+1974,Group A,Parkstadion,German DR,0,2,Netherlands,SCHEURER Ruedi (SUI),GDR,NED
+1974,Group B,Rheinstadion,Germany FR,4,2,Sweden,KAZAKOV Pavel (URS),FRG,SWE
+1974,Group B,Waldstadion,Poland,0,1,Germany FR,LINEMAYR Erich (AUT),POL,FRG
+1974,Group A,Westfalenstadion,Netherlands,2,0,Brazil,TSCHENSCHER Kurt (GER),NED,BRA
+1974,Group A,Parkstadion,Argentina,1,1,German DR,TAYLOR John (ENG),ARG,GDR
+1974,Group B,Rheinstadion,Sweden,2,1,Yugoslavia,PESTARINO Luis (ARG),SWE,YUG
+1974,Match for third place,Olympiastadion,Brazil,0,1,Poland,ANGONESE Aurelio (ITA),BRA,POL
+1974,Final,Olympiastadion,Netherlands,1,2,Germany FR,TAYLOR John (ENG),NED,FRG
+1978,Group 2,El Monumental - Estadio Monumental Antonio Vespuci,Germany FR,0,0,Poland,COEREZZA Norberto Angel (ARG),FRG,POL
+1978,Group 1,Estadio Josï¿½ Marï¿½a Minella,Italy,2,1,France,RAINEA Nicolae (ROU),ITA,FRA
+1978,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Tunisia,3,1,Mexico,GORDON John (SCO),TUN,MEX
+1978,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Argentina,2,1,Hungary,GARRIDO Antonio (POR),ARG,HUN
+1978,Group 3,Estadio Josï¿½ Marï¿½a Minella,Sweden,1,1,Brazil,THOMAS Clive (WAL),SWE,BRA
+1978,Group 3,Jose Amalfitani,Austria,2,1,Spain,PALOTAI Karoly (HUN),AUT,ESP
+1978,Group 4,Estadio Olï¿½mpico Chateau Carreras,Peru,3,1,Scotland,ERIKSSON Ulf (SWE),PER,SCO
+1978,Group 4,San Martin,Netherlands,3,0,IR Iran,GONZALEZ ARCHUNDIA Alfonso (MEX),NED,IRN
+1978,Group 1,Estadio Josï¿½ Marï¿½a Minella,Italy,3,1,Hungary,BARRETO RUIZ Ramon (URU),ITA,HUN
+1978,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Poland,1,0,Tunisia,MARTINEZ Angel (ESP),POL,TUN
+1978,Group 2,Estadio Olï¿½mpico Chateau Carreras,Germany FR,6,0,Mexico,BOUZO Farouk (SYR),FRG,MEX
+1978,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Argentina,2,1,France,DUBACH Jean (SUI),ARG,FRA
+1978,Group 3,Estadio Josï¿½ Marï¿½a Minella,Brazil,0,0,Spain,GONELLA Sergio (ITA),BRA,ESP
+1978,Group 3,Jose Amalfitani,Austria,1,0,Sweden,CORVER Charles (NED),AUT,SWE
+1978,Group 4,Estadio Olï¿½mpico Chateau Carreras,Scotland,1,1,IR Iran,NDIAYE Youssou (SEN),SCO,IRN
+1978,Group 4,San Martin,Netherlands,0,0,Peru,PROKOP Adolf (GDR),NED,PER
+1978,Group 1,Estadio Josï¿½ Marï¿½a Minella,France,3,1,Hungary,COELHO Arnaldo (BRA),FRA,HUN
+1978,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Poland,3,1,Mexico,NAMDAR Jafar (IRN),POL,MEX
+1978,Group 2,Estadio Olï¿½mpico Chateau Carreras,Germany FR,0,0,Tunisia,OROZCO GUERRERO Cesar (PER),FRG,TUN
+1978,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Italy,1,0,Argentina,KLEIN Abraham (ISR),ITA,ARG
+1978,Group 3,Estadio Josï¿½ Marï¿½a Minella,Brazil,1,0,Austria,WURTZ Robert (FRA),BRA,AUT
+1978,Group 3,Jose Amalfitani,Spain,1,0,Sweden,BIWERSI Ferdinand (GER),ESP,SWE
+1978,Group 4,Estadio Olï¿½mpico Chateau Carreras,Peru,4,1,Iran,JARGUZ Alojzy (POL),PER,IRN
+1978,Group 4,San Martin,Scotland,3,2,Netherlands,LINEMAYR Erich (AUT),SCO,NED
+1978,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Germany FR,0,0,Italy,MAKSIMOVIC Dusan (SCG),FRG,ITA
+1978,Group A,Estadio Olï¿½mpico Chateau Carreras,Netherlands,5,1,Austria,GORDON John (SCO),NED,AUT
+1978,Group B,San Martin,Brazil,3,0,Peru,RAINEA Nicolae (ROU),BRA,PER
+1978,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Argentina,2,0,Poland,ERIKSSON Ulf (SWE),ARG,POL
+1978,Group B,San Martin,Poland,1,0,Peru,PARTRIDGE Pat (ENG),POL,PER
+1978,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Italy,1,0,Austria,RION Francis (BEL),ITA,AUT
+1978,Group A,Estadio Olï¿½mpico Chateau Carreras,Germany FR,2,2,Netherlands,BARRETO RUIZ Ramon (URU),FRG,NED
+1978,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Argentina,0,0,Brazil,PALOTAI Karoly (HUN),ARG,BRA
+1978,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Netherlands,2,1,Italy,MARTINEZ Angel (ESP),NED,ITA
+1978,Group A,Estadio Olï¿½mpico Chateau Carreras,Austria,3,2,Germany FR,KLEIN Abraham (ISR),AUT,FRG
+1978,Group B,San Martin,Brazil,3,1,Poland,SILVAGNO CAVANNA Juan (CHI),BRA,POL
+1978,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Argentina,6,0,Peru,WURTZ Robert (FRA),ARG,PER
+1978,Match for third place,El Monumental - Estadio Monumental Antonio Vespuci,Brazil,2,1,Italy,KLEIN Abraham (ISR),BRA,ITA
+1978,Final,El Monumental - Estadio Monumental Antonio Vespuci,Argentina,3,1,Netherlands,GONELLA Sergio (ITA),ARG,NED
+1982,Group 3,Camp Nou,Argentina,0,1,Belgium,CHRISTOV Vojtech (TCH),ARG,BEL
+1982,Group 1,Estadio Municipal de Balaï¿½dos,Italy,0,0,Poland,VAUTROT Michel (FRA),ITA,POL
+1982,Group 6,Ramon Sanchez Pizjuan,Brazil,2,1,Soviet Union,LAMO CASTILLO Augusto (ESP),BRA,URS
+1982,Group 1,Riazor,Peru,0,0,Cameroon,WOEHRER Franz (AUT),PER,CMR
+1982,Group 3,Nuevo Estadio,Hungary,10,1,El Salvador,AL DOY Ebrahim (BHR),HUN,SLV
+1982,Group 6,La Rosaleda,Scotland,5,2,New Zealand,SOCHA David (USA),SCO,NZL
+1982,Group 2,El Molinon,Germany FR,1,2,Algeria,LABO REVOREDO Enrique (PER),FRG,ALG
+1982,Group 4,San Mames,England,3,1,France,GARRIDO Antonio (POR),ENG,FRA
+1982,Group 5,Luis Casanova,Spain,1,1,Honduras,ITHURRALDE Arturo Andres (ARG),ESP,HON
+1982,Group 2,Carlos Tartiere,Chile,0,1,Austria,CARDELLINO DE SAN VICENTE Juan (URU),CHI,AUT
+1982,Group 4,Jose Zorrilla,Czechoslovakia,1,1,Kuwait,DWOMOH Benjamin (GHA),TCH,KUW
+1982,Group 5,La Romareda,Yugoslavia,0,0,Northern Ireland,FREDRIKSSON Erik (SWE),YUG,NIR
+1982,Group 1,Estadio Municipal de Balaï¿½dos,Italy,1,1,Peru,ESCHWEILER Walter (GER),ITA,PER
+1982,Group 3,Jose Rico Perez,Argentina,4,1,Hungary,LACARNE Belaid (ALG),ARG,HUN
+1982,Group 6,Benito Villamarin,Brazil,4,1,Scotland,SILES Jesus Paulino (CRC),BRA,SCO
+1982,Group 1,Riazor,Poland,0,0,Cameroon,PONNET Alexis (BEL),POL,CMR
+1982,Group 3,Nuevo Estadio,Belgium,1,0,El Salvador,MOFFATT Malcolm (NIR),BEL,SLV
+1982,Group 6,La Rosaleda,Soviet Union,3,0,New Zealand,EL GHOUL Yusef Mohamed (LBY),URS,NZL
+1982,Group 2,El Molinon,Germany FR,4,1,Chile,GALLER Bruno (SUI),FRG,CHI
+1982,Group 4,San Mames,England,2,0,Czechoslovakia,CORVER Charles (NED),ENG,TCH
+1982,Group 5,Luis Casanova,Spain,2,1,Yugoslavia,LUND-SORENSEN Henning (DEN),ESP,YUG
+1982,Group 2,Carlos Tartiere,Algeria,0,2,Austria,BOSKOVIC Tony (AUS),ALG,AUT
+1982,Group 4,Jose Zorrilla,France,4,1,Kuwait,STUPAR Miroslav (URS),FRA,KUW
+1982,Group 5,La Romareda,Honduras,1,1,Northern Ireland,CHAN Thomson Tam Sun (HKG),HON,NIR
+1982,Group 1,Riazor,Poland,5,1,Peru,RUBIO VAZQUEZ Mario (MEX),POL,PER
+1982,Group 3,Nuevo Estadio,Belgium,1,1,Hungary,WHITE Clive (ENG),BEL,HUN
+1982,Group 6,La Rosaleda,Soviet Union,2,2,Scotland,RAINEA Nicolae (ROU),URS,SCO
+1982,Group 1,Estadio Municipal de Balaï¿½dos,Italy,1,1,Cameroon,DOTCHEV Bogdan (BUL),ITA,CMR
+1982,Group 3,Jose Rico Perez,Argentina,2,0,El Salvador,BARRANCOS Luis (BOL),ARG,SLV
+1982,Group 6,Benito Villamarin,Brazil,4,0,New Zealand,MATOVINOVIC Damir (CRO),BRA,NZL
+1982,Group 2,Carlos Tartiere,Algeria,3,2,Chile,MENDEZ MOLINA Romulo (GUA),ALG,CHI
+1982,Group 4,Jose Zorrilla,France,1,1,Czechoslovakia,CASARIN Paolo (ITA),FRA,TCH
+1982,Group 5,La Romareda,Honduras,0,1,Yugoslavia,CASTRO Gaston (CHI),HON,YUG
+1982,Group 2,El Molinon,Germany FR,1,0,Austria,VALENTINE Robert (SCO),FRG,AUT
+1982,Group 4,San Mames,England,1,0,Kuwait,ARISTIZABAL MURCIA Gilberto (COL),ENG,KUW
+1982,Group 5,Luis Casanova,Northern Ireland,1,0,Spain,ORTIZ Hector (PAR),NIR,ESP
+1982,Group 4,Vicente Calderon,Austria,0,1,France,PALOTAI Karoly (HUN),AUT,FRA
+1982,Group 1,Camp Nou,Poland,3,0,Belgium,SILES Jesus Paulino (CRC),POL,BEL
+1982,Group 3,Sarria,Italy,2,1,Argentina,RAINEA Nicolae (ROU),ITA,ARG
+1982,Group 2,Santiago Bernabeu,Germany FR,0,0,England,COELHO Arnaldo (BRA),FRG,ENG
+1982,Group 4,Vicente Calderon,Austria,2,2,Northern Ireland,PROKOP Adolf (GDR),AUT,NIR
+1982,Group 1,Camp Nou,Belgium,0,1,Soviet Union,VAUTROT Michel (FRA),BEL,URS
+1982,Group 3,Sarria,Argentina,1,3,Brazil,RUBIO VAZQUEZ Mario (MEX),ARG,BRA
+1982,Group 2,Santiago Bernabeu,Germany FR,2,1,Spain,CASARIN Paolo (ITA),FRG,ESP
+1982,Group 4,Vicente Calderon,France,4,1,Northern Ireland,JARGUZ Alojzy (POL),FRA,NIR
+1982,Group 1,Camp Nou,Poland,0,0,Soviet Union,VALENTINE Robert (SCO),POL,URS
+1982,Group 3,Sarria,Italy,3,2,Brazil,KLEIN Abraham (ISR),ITA,BRA
+1982,Group 2,Santiago Bernabeu,Spain,0,0,England,PONNET Alexis (BEL),ESP,ENG
+1982,Semi-finals,Camp Nou,Poland,0,2,Italy,CARDELLINO DE SAN VICENTE Juan (URU),POL,ITA
+1982,Semi-finals,Ramon Sanchez Pizjuan,Germany FR,3,3,France,CORVER Charles (NED),FRG,FRA
+1982,Match for third place,Jose Rico Perez,Poland,3,2,France,GARRIDO Antonio (POR),POL,FRA
+1982,Final,Santiago Bernabeu,Italy,3,1,Germany FR,COELHO Arnaldo (BRA),ITA,FRG
+1986,Group A,Estadio Azteca,Bulgaria,1,1,Italy,FREDRIKSSON Erik (SWE),BUL,ITA
+1986,Group C,Nou Camp - Estadio Leï¿½n,Canada,0,1,France,SILVA ARCE Hernan (CHI),CAN,FRA
+1986,Group D,Jalisco,Spain,0,1,Brazil,BAMBRIDGE Christopher (AUS),ESP,BRA
+1986,Group C,Estadio Irapuato,Soviet Union,6,0,Hungary,AGNOLIN Luigi (ITA),URS,HUN
+1986,Group A,Estadio Olï¿½mpico Universitario,Argentina,3,1,Korea Republic,SANCHEZ ARMINIO Victoriano (ESP),ARG,KOR
+1986,Group F,Estadio Universitario,Morocco,0,0,Poland,MARTINEZ BAZAN Jose Luis (URU),MAR,POL
+1986,Group D,Tres de Marzo,Algeria,1,1,Northern Ireland,BUTENKO Valeri (RUS),ALG,NIR
+1986,Group B,Estadio Azteca,Belgium,1,2,Mexico,ESPOSITO Carlos (ARG),BEL,MEX
+1986,Group F,Tecnologico,Portugal,1,0,England,ROTH Volker (GER),POR,ENG
+1986,Group B,Bombonera - Estadio Nemesio Diez,Paraguay,1,0,Iraq,PICON-ACKONG Edwin (MRI),PAR,IRQ
+1986,Group E,Neza,Scotland,0,1,Denmark,NEMETH Lajos (HUN),SCO,DEN
+1986,Group E,Estadio Corregidora,Uruguay,1,1,Germany FR,CHRISTOV Vojtech (TCH),URU,FRG
+1986,Group A,Cuauhtemoc,Italy,1,1,Argentina,KEIZER Jan (NED),ITA,ARG
+1986,Group C,Nou Camp - Estadio Leï¿½n,France,1,1,Soviet Union,ARPPI FILHO Romualdo (BRA),FRA,URS
+1986,Group A,Estadio Olï¿½mpico Universitario,Korea Republic,1,1,Bulgaria,AL SHANAR Fallaj Khuzam (KSA),KOR,BUL
+1986,Group C,Estadio Irapuato,Hungary,2,0,Canada,AL SHARIF Jamal (SYR),HUN,CAN
+1986,Group D,Jalisco,Brazil,1,0,Algeria,MENDEZ MOLINA Romulo (GUA),BRA,ALG
+1986,Group F,Tecnologico,England,0,0,Morocco,GONZALEZ ROA Gabriel (PAR),ENG,MAR
+1986,Group D,Tres de Marzo,Northern Ireland,1,2,Spain,BRUMMEIER Horst (AUT),NIR,ESP
+1986,Group B,Estadio Azteca,Mexico,1,1,Paraguay,COURTNEY George (ENG),MEX,PAR
+1986,Group F,Estadio Universitario,Poland,1,0,Portugal,BENNACEUR Ali (TUN),POL,POR
+1986,Group B,Bombonera - Estadio Nemesio Diez,Iraq,1,2,Belgium,DIAZ PALACIO Jesus (COL),IRQ,BEL
+1986,Group E,Neza,Denmark,6,1,Uruguay,MARQUEZ RAMIREZ Antonio (MEX),DEN,URU
+1986,Group E,Estadio Corregidora,Germany FR,2,1,Scotland,IGNA Ioan (ROU),FRG,SCO
+1986,Group C,Nou Camp - Estadio Leï¿½n,Hungary,0,3,France,SILVA VALENTE Carlos Alberto (POR),HUN,FRA
+1986,Group C,Estadio Irapuato,Soviet Union,2,0,Canada,TRAORE Idrissa (MLI),URS,CAN
+1986,Group A,Cuauhtemoc,Korea Republic,2,3,Italy,SOCHA David (USA),KOR,ITA
+1986,Group A,Estadio Olï¿½mpico Universitario,Argentina,2,0,Bulgaria,ULLOA MORERA Berny (CRC),ARG,BUL
+1986,Group B,Bombonera - Estadio Nemesio Diez,Paraguay,2,2,Belgium,DOTCHEV Bogdan (BUL),PAR,BEL
+1986,Group B,Estadio Azteca,Iraq,0,1,Mexico,PETROVIC Zoran (SRB),IRQ,MEX
+1986,Group F,Tres de Marzo,Portugal,1,3,Morocco,SNODDY Alan (NIR),POR,MAR
+1986,Group F,Tecnologico,England,3,0,Poland,DAINA Andre (SUI),ENG,POL
+1986,Group D,Jalisco,Northern Ireland,0,3,Brazil,KIRSCHEN Siegfried (GER),NIR,BRA
+1986,Group D,Tecnologico,Algeria,0,3,Spain,TAKADA Shizuo (JPN),ALG,ESP
+1986,Group E,Neza,Scotland,0,0,Uruguay,QUINIOU Joel (FRA),SCO,URU
+1986,Group E,Estadio Corregidora,Denmark,2,0,Germany FR,PONNET Alexis (BEL),DEN,FRG
+1986,Round of 16,Nou Camp - Estadio Leï¿½n,Soviet Union,3,4,Belgium,FREDRIKSSON Erik (SWE),URS,BEL
+1986,Round of 16,Estadio Azteca,Mexico,2,0,Bulgaria,ARPPI FILHO Romualdo (BRA),MEX,BUL
+1986,Round of 16,Cuauhtemoc,Argentina,1,0,Uruguay,AGNOLIN Luigi (ITA),ARG,URU
+1986,Round of 16,Jalisco,Brazil,4,0,Poland,ROTH Volker (GER),BRA,POL
+1986,Round of 16,Estadio Olï¿½mpico Universitario,Italy,0,2,France,ESPOSITO Carlos (ARG),ITA,FRA
+1986,Round of 16,Estadio Universitario,Morocco,0,1,Germany FR,PETROVIC Zoran (SRB),MAR,FRG
+1986,Round of 16,Estadio Azteca,England,3,0,Paraguay,AL SHARIF Jamal (SYR),ENG,PAR
+1986,Round of 16,Estadio Corregidora,Denmark,1,5,Spain,KEIZER Jan (NED),DEN,ESP
+1986,Quarter-finals,Jalisco,Brazil,1,1,France,IGNA Ioan (ROU),BRA,FRA
+1986,Quarter-finals,Estadio Universitario,Germany FR,0,0,Mexico,DIAZ PALACIO Jesus (COL),FRG,MEX
+1986,Quarter-finals,Cuauhtemoc,Spain,1,1,Belgium,KIRSCHEN Siegfried (GER),ESP,BEL
+1986,Quarter-finals,Estadio Azteca,Argentina,2,1,England,BENNACEUR Ali (TUN),ARG,ENG
+1986,Semi-finals,Jalisco,France,0,2,Germany FR,AGNOLIN Luigi (ITA),FRA,FRG
+1986,Semi-finals,Estadio Azteca,Argentina,2,0,Belgium,MARQUEZ RAMIREZ Antonio (MEX),ARG,BEL
+1986,Match for third place,Cuauhtemoc,France,4,2,Belgium,COURTNEY George (ENG),FRA,BEL
+1986,Final,Estadio Azteca,Argentina,3,2,Germany FR,ARPPI FILHO Romualdo (BRA),ARG,FRG
+1990,Group B,Giuseppe Meazza,Argentina,0,1,Cameroon,VAUTROT Michel (FRA),ARG,CMR
+1990,Group B,Stadio San Nicola,Soviet Union,0,2,Romania,CARDELLINO DE SAN VICENTE Juan (URU),URS,ROU
+1990,Group D,Renato Dall Ara,United Arab Emirates,0,2,Colombia,COURTNEY George (ENG),UAE,COL
+1990,Group A,Stadio Olimpico,Italy,1,0,Austria,RAMIZ WRIGHT Jose (BRA),ITA,AUT
+1990,Group A,Comunale,USA,1,5,Czechoslovakia,ROETHLISBERGER Kurt (SUI),USA,TCH
+1990,Group C,Stadio delle Alpi,Brazil,2,1,Sweden,LANESE Tullio (ITA),BRA,SWE
+1990,Group D,Giuseppe Meazza,Germany FR,4,1,Yugoslavia,MIKKELSEN Peter (DEN),FRG,YUG
+1990,Group C,Luigi Ferraris,Costa Rica,1,0,Scotland,LOUSTAU Juan (ARG),CRC,SCO
+1990,Group F,Sant Elia,England,1,1,Republic of Ireland,SCHMIDHUBER Aron (GER),ENG,IRL
+1990,Group E,Marc Antonio Bentegodi,Belgium,2,0,Korea Republic,MAURO Vincent (USA),BEL,KOR
+1990,Group F,Della Favorita,Netherlands,1,1,Egypt,SORIANO ALADREN Emilio (ESP),NED,EGY
+1990,Group E,Dacia Arena,Uruguay,0,0,Spain,KOHL Helmut (AUT),URU,ESP
+1990,Group B,San Paolo,Argentina,2,0,Soviet Union,FREDRIKSSON Erik (SWE),ARG,URS
+1990,Group B,Stadio San Nicola,Cameroon,2,1,Romania,SILVA ARCE Hernan (CHI),CMR,ROU
+1990,Group D,Renato Dall Ara,Yugoslavia,1,0,Colombia,AGNOLIN Luigi (ITA),YUG,COL
+1990,Group A,Stadio Olimpico,Italy,1,0,USA,CODESAL MENDEZ Edgardo (MEX),ITA,USA
+1990,Group A,Comunale,Austria,0,1,Czechoslovakia,SMITH George (SCO),AUT,TCH
+1990,Group D,Giuseppe Meazza,Germany FR,5,1,United Arab Emirates,SPIRIN Alexey (RUS),FRG,UAE
+1990,Group C,Stadio delle Alpi,Brazil,1,0,Costa Rica,JOUINI Neji (TUN),BRA,CRC
+1990,Group C,Luigi Ferraris,Sweden,1,2,Scotland,MACIEL Carlos (PAR),SWE,SCO
+1990,Group F,Sant Elia,England,0,0,Netherlands,PETROVIC Zoran (SRB),ENG,NED
+1990,Group F,Della Favorita,Republic of Ireland,0,0,Egypt,VAN LANGENHOVE Marcel (BEL),IRL,EGY
+1990,Group E,Dacia Arena,Korea Republic,1,3,Spain,JACOME GUERRERO Elias V. (ECU),KOR,ESP
+1990,Group E,Marc Antonio Bentegodi,Belgium,3,1,Uruguay,KIRSCHEN Siegfried (GER),BEL,URU
+1990,Group B,San Paolo,Argentina,1,1,Romania,SILVA VALENTE Carlos Alberto (POR),ARG,ROU
+1990,Group B,Stadio San Nicola,Cameroon,0,4,Soviet Union,RAMIZ WRIGHT Jose (BRA),CMR,URS
+1990,Group D,Giuseppe Meazza,Germany FR,1,1,Colombia,SNODDY Alan (NIR),FRG,COL
+1990,Group D,Renato Dall Ara,Yugoslavia,4,1,United Arab Emirates,TAKADA Shizuo (JPN),YUG,UAE
+1990,Group A,Stadio Olimpico,Italy,2,0,Czechoslovakia,QUINIOU Joel (FRA),ITA,TCH
+1990,Group A,Comunale,Austria,2,1,USA,AL SHARIF Jamal (SYR),AUT,USA
+1990,Group C,Stadio delle Alpi,Brazil,1,0,Scotland,KOHL Helmut (AUT),BRA,SCO
+1990,Group C,Luigi Ferraris,Sweden,1,2,Costa Rica,PETROVIC Zoran (SRB),SWE,CRC
+1990,Group E,Friuli,Korea Republic,0,1,Uruguay,LANESE Tullio (ITA),KOR,URU
+1990,Group E,Marc Antonio Bentegodi,Belgium,1,2,Spain,LOUSTAU Juan (ARG),BEL,ESP
+1990,Group F,Della Favorita,Republic of Ireland,1,1,Netherlands,VAUTROT Michel (FRA),IRL,NED
+1990,Group F,Sant Elia,England,1,0,Egypt,ROETHLISBERGER Kurt (SUI),ENG,EGY
+1990,Round of 16,San Paolo,Cameroon,2,1,Colombia,LANESE Tullio (ITA),CMR,COL
+1990,Round of 16,Stadio San Nicola,Czechoslovakia,4,1,Costa Rica,KIRSCHEN Siegfried (GER),TCH,CRC
+1990,Round of 16,Stadio delle Alpi,Brazil,0,1,Argentina,QUINIOU Joel (FRA),BRA,ARG
+1990,Round of 16,Giuseppe Meazza,Germany FR,2,1,Netherlands,LOUSTAU Juan (ARG),FRG,NED
+1990,Round of 16,Luigi Ferraris,Republic of Ireland,0,0,Romania,RAMIZ WRIGHT Jose (BRA),IRL,ROU
+1990,Round of 16,Stadio Olimpico,Italy,2,0,Uruguay,COURTNEY George (ENG),ITA,URU
+1990,Round of 16,Marc Antonio Bentegodi,Spain,1,2,Yugoslavia,SCHMIDHUBER Aron (GER),ESP,YUG
+1990,Round of 16,Renato Dall Ara,England,1,0,Belgium,MIKKELSEN Peter (DEN),ENG,BEL
+1990,Quarter-finals,Comunale,Yugoslavia,0,0,Argentina,ROETHLISBERGER Kurt (SUI),YUG,ARG
+1990,Quarter-finals,Stadio Olimpico,Italy,1,0,Republic of Ireland,SILVA VALENTE Carlos Alberto (POR),ITA,IRL
+1990,Quarter-finals,Giuseppe Meazza,Germany FR,1,0,Czechoslovakia,KOHL Helmut (AUT),FRG,TCH
+1990,Quarter-finals,San Paolo,England,3,2,Cameroon,CODESAL MENDEZ Edgardo (MEX),ENG,CMR
+1990,Semi-finals,San Paolo,Italy,1,1,Argentina,VAUTROT Michel (FRA),ITA,ARG
+1990,Semi-finals,Stadio delle Alpi,Germany FR,1,1,England,RAMIZ WRIGHT Jose (BRA),FRG,ENG
+1990,Match for third place,Stadio San Nicola,Italy,2,1,England,QUINIOU Joel (FRA),ITA,ENG
+1990,Final,Stadio Olimpico,Germany FR,1,0,Argentina,CODESAL MENDEZ Edgardo (MEX),FRG,ARG
+1994,Group C,Cotton Bowl,Spain,2,2,Korea Republic,MIKKELSEN Peter (DEN),ESP,KOR
+1994,Group C,Soldier Field,Germany,1,0,Bolivia,BRIZIO CARTER Arturo (MEX),GER,BOL
+1994,Group A,Pontiac Silverdome,USA,1,1,Switzerland,LAMOLINA Francisco Oscar (ARG),USA,SUI
+1994,Group E,Giants Stadium,Italy,0,1,Republic of Ireland,VAN DER ENDE Mario (NED),ITA,IRL
+1994,Group A,Rose Bowl,Colombia,1,3,Romania,AL SHARIF Jamal (SYR),COL,ROU
+1994,Group F,Citrus Bowl,Belgium,1,0,Morocco,TORRES CADENA Jose Joaquin (COL),BEL,MAR
+1994,Group E,RFK Stadium,Norway,1,0,Mexico,PUHL Sandor (HUN),NOR,MEX
+1994,Group B,Rose Bowl,Cameroon,2,2,Sweden,TEJADA NORIEGA Alberto (PER),CMR,SWE
+1994,Group F,RFK Stadium,Netherlands,2,1,Saudi Arabia,DIAZ VEGA Manuel (ESP),NED,KSA
+1994,Group B,Stanford Stadium,Brazil,2,0,Russia,LIM KEE CHONG An Yan (MRI),BRA,RUS
+1994,Group D,Foxboro Stadium,Argentina,4,0,Greece,ANGELES Arturo (USA),ARG,GRE
+1994,Group D,Cotton Bowl,Nigeria,3,0,Bulgaria,BADILLA Rodrigo (CRC),NGA,BUL
+1994,Group C,Soldier Field,Germany,1,1,Spain,FILIPPI Ernesto (URU),GER,ESP
+1994,Group A,Pontiac Silverdome,Romania,1,4,Switzerland,JOUINI Neji (TUN),ROU,SUI
+1994,Group A,Rose Bowl,USA,2,1,Colombia,BALDAS Fabio (ITA),USA,COL
+1994,Group E,Giants Stadium,Italy,1,0,Norway,KRUG Hellmut (GER),ITA,NOR
+1994,Group C,Foxboro Stadium,Korea Republic,0,0,Bolivia,MOTTRAM Leslie (SCO),KOR,BOL
+1994,Group E,Citrus Bowl,Mexico,2,1,Republic of Ireland,ROETHLISBERGER Kurt (SUI),MEX,IRL
+1994,Group B,Pontiac Silverdome,Sweden,3,1,Russia,QUINIOU Joel (FRA),SWE,RUS
+1994,Group B,Stanford Stadium,Brazil,3,0,Cameroon,BRIZIO CARTER Arturo (MEX),BRA,CMR
+1994,Group F,Citrus Bowl,Belgium,1,0,Netherlands,MARSIGLIA Renato (BRA),BEL,NED
+1994,Group F,Giants Stadium,Saudi Arabia,2,1,Morocco,DON Philip (ENG),KSA,MAR
+1994,Group D,Foxboro Stadium,Argentina,2,1,Nigeria,KARLSSON Bo (SWE),ARG,NGA
+1994,Group D,Soldier Field,Bulgaria,4,0,Greece,BUJSAIM Ali (UAE),BUL,GRE
+1994,Group A,Rose Bowl,USA,0,1,Romania,VAN DER ENDE Mario (NED),USA,ROU
+1994,Group A,Stanford Stadium,Switzerland,0,2,Colombia,MIKKELSEN Peter (DEN),SUI,COL
+1994,Group C,Cotton Bowl,Germany,3,2,Korea Republic,QUINIOU Joel (FRA),GER,KOR
+1994,Group C,Soldier Field,Bolivia,1,3,Spain,BADILLA Rodrigo (CRC),BOL,ESP
+1994,Group E,Giants Stadium,Republic of Ireland,0,0,Norway,TORRES CADENA Jose Joaquin (COL),IRL,NOR
+1994,Group B,Pontiac Silverdome,Brazil,1,1,Sweden,PUHL Sandor (HUN),BRA,SWE
+1994,Group E,RFK Stadium,Italy,1,1,Mexico,LAMOLINA Francisco Oscar (ARG),ITA,MEX
+1994,Group B,Stanford Stadium,Russia,6,1,Cameroon,AL SHARIF Jamal (SYR),RUS,CMR
+1994,Group F,Citrus Bowl,Morocco,1,2,Netherlands,TEJADA NORIEGA Alberto (PER),MAR,NED
+1994,Group F,RFK Stadium,Belgium,0,1,Saudi Arabia,KRUG Hellmut (GER),BEL,KSA
+1994,Group D,Foxboro Stadium,Greece,0,2,Nigeria,MOTTRAM Leslie (SCO),GRE,NGA
+1994,Group D,Cotton Bowl,Argentina,0,2,Bulgaria,JOUINI Neji (TUN),ARG,BUL
+1994,Round of 16,Soldier Field,Germany,3,2,Belgium,ROETHLISBERGER Kurt (SUI),GER,BEL
+1994,Round of 16,RFK Stadium,Spain,3,0,Switzerland,VAN DER ENDE Mario (NED),ESP,SUI
+1994,Round of 16,Cotton Bowl,Saudi Arabia,1,3,Sweden,MARSIGLIA Renato (BRA),KSA,SWE
+1994,Round of 16,Rose Bowl,Romania,3,2,Argentina,PAIRETTO Pierluigi (ITA),ROU,ARG
+1994,Round of 16,Citrus Bowl,Netherlands,2,0,Republic of Ireland,MIKKELSEN Peter (DEN),NED,IRL
+1994,Round of 16,Stanford Stadium,Brazil,1,0,USA,QUINIOU Joel (FRA),BRA,USA
+1994,Round of 16,Foxboro Stadium,Nigeria,1,2,Italy,BRIZIO CARTER Arturo (MEX),NGA,ITA
+1994,Round of 16,Giants Stadium,Mexico,1,1,Bulgaria,AL SHARIF Jamal (SYR),MEX,BUL
+1994,Quarter-finals,Foxboro Stadium,Italy,2,1,Spain,PUHL Sandor (HUN),ITA,ESP
+1994,Quarter-finals,Cotton Bowl,Netherlands,2,3,Brazil,BADILLA Rodrigo (CRC),NED,BRA
+1994,Quarter-finals,Giants Stadium,Bulgaria,2,1,Germany,TORRES CADENA Jose Joaquin (COL),BUL,GER
+1994,Quarter-finals,Stanford Stadium,Romania,2,2,Sweden,DON Philip (ENG),ROU,SWE
+1994,Semi-finals,Giants Stadium,Bulgaria,1,2,Italy,QUINIOU Joel (FRA),BUL,ITA
+1994,Semi-finals,Rose Bowl,Sweden,0,1,Brazil,TORRES CADENA Jose Joaquin (COL),SWE,BRA
+1994,Match for third place,Rose Bowl,Sweden,4,0,Bulgaria,BUJSAIM Ali (UAE),SWE,BUL
+1994,Final,Rose Bowl,Brazil,0,0,Italy,PUHL Sandor (HUN),BRA,ITA
+1998,Group A,Stade de France,Brazil,2,1,Scotland,GARCIA ARANDA Jose Maria (ESP),BRA,SCO
+1998,Group A,La Mosson,Morocco,2,2,Norway,ANPRASERT Pirom (THA),MAR,NOR
+1998,Group B,Stade du Parc Lescure,Italy,2,2,Chile,BOUCHARDEAU Lucien (NIG),ITA,CHI
+1998,Group B,Stade Municipal,Cameroon,1,1,Austria,GONZALEZ CHAVEZ Epifanio (PAR),CMR,AUT
+1998,Group D,La Mosson,Paraguay,0,0,Bulgaria,ALZEID Abdulrahman (KSA),PAR,BUL
+1998,Group C,Stade Felix Bollaert,Saudi Arabia,0,1,Denmark,CASTRILLI Javier (ARG),KSA,DEN
+1998,Group C,Stade Vï¿½lodrome,France,3,0,South Africa,REZENDE Marcio (BRA),FRA,RSA
+1998,Group D,La Beaujoire,Spain,2,3,Nigeria,BAHARMAST Esse (USA),ESP,NGA
+1998,Group E,Stade de Gerland,Korea Republic,1,3,Mexico,BENKO Gunter (AUT),KOR,MEX
+1998,Group E,Stade de France,Netherlands,0,0,Belgium,COLLINA Pierluigi (ITA),NED,BEL
+1998,Group H,Stade Municipal,Argentina,1,0,Japan,VAN DER ENDE Mario (NED),ARG,JPN
+1998,Group F,Stade Geoffroy Guichard,Yugoslavia,1,0,Iran,TEJADA NORIEGA Alberto (PER),YUG,IRN
+1998,Group H,Stade Felix Bollaert,Jamaica,1,3,Croatia,MELO PEREIRA Vitor (POR),JAM,CRO
+1998,Group G,Stade Vï¿½lodrome,England,2,0,Tunisia,OKADA Masayoshi (JPN),ENG,TUN
+1998,Group G,Stade de Gerland,Romania,1,0,Colombia,LIM KEE CHONG An Yan (MRI),ROU,COL
+1998,Group F,Parc des Princes,Germany,2,0,USA,BELQOLA Said (MAR),GER,USA
+1998,Group A,Stade du Parc Lescure,Scotland,1,1,Norway,VAGNER Laszlo (HUN),SCO,NOR
+1998,Group A,La Beaujoire,Brazil,3,0,Morocco,LEVNIKOV Nikolai (RUS),BRA,MAR
+1998,Group B,Stade Geoffroy Guichard,Chile,1,1,Austria,EL GHANDOUR Gamal (EGY),CHI,AUT
+1998,Group B,La Mosson,Italy,3,0,Cameroon,LENNIE Edward (AUS),ITA,CMR
+1998,Group C,Stade Municipal,South Africa,1,1,Denmark,TORO RENDON John (COL),RSA,DEN
+1998,Group C,Stade de France,France,4,0,Saudi Arabia,BRIZIO CARTER Arturo (MEX),FRA,KSA
+1998,Group D,Parc des Princes,Nigeria,1,0,Bulgaria,SANCHEZ YANTEN Mario (CHI),NGA,BUL
+1998,Group D,Stade Geoffroy Guichard,Spain,0,0,Paraguay,McLEOD Ian (RSA),ESP,PAR
+1998,Group H,La Beaujoire,Japan,0,1,Croatia,RAMDHAN Ramesh (TRI),JPN,CRO
+1998,Group E,Stade du Parc Lescure,Belgium,2,2,Mexico,DALLAS Hugh (SCO),BEL,MEX
+1998,Group E,Stade Vï¿½lodrome,Netherlands,5,0,Korea Republic,WOJCIK Ryszard (POL),NED,KOR
+1998,Group F,Stade Felix Bollaert,Germany,2,2,Yugoslavia,NIELSEN Kim Milton (DEN),GER,YUG
+1998,Group H,Parc des Princes,Argentina,5,0,Jamaica,PEDERSEN Rune (NOR),ARG,JAM
+1998,Group F,Stade de Gerland,USA,1,2,Iran,MEIER Urs (SUI),USA,IRN
+1998,Group G,La Mosson,Colombia,1,0,Tunisia,HEYNEMANN Bernd (GER),COL,TUN
+1998,Group G,Stade Municipal,Romania,2,1,England,BATTA Marc (FRA),ROU,ENG
+1998,Group B,Stade de France,Italy,2,1,Austria,DURKIN Paul (ENG),ITA,AUT
+1998,Group B,La Beaujoire,Chile,1,1,Cameroon,VAGNER Laszlo (HUN),CHI,CMR
+1998,Group A,Stade Geoffroy Guichard,Scotland,0,3,Morocco,BUJSAIM Ali (UAE),SCO,MAR
+1998,Group A,Stade Vï¿½lodrome,Brazil,1,2,Norway,BAHARMAST Esse (USA),BRA,NOR
+1998,Group C,Stade de Gerland,France,2,1,Denmark,COLLINA Pierluigi (ITA),FRA,DEN
+1998,Group C,Stade du Parc Lescure,South Africa,2,2,Saudi Arabia,SANCHEZ YANTEN Mario (CHI),RSA,KSA
+1998,Group D,Stade Felix Bollaert,Spain,6,1,Bulgaria,VAN DER ENDE Mario (NED),ESP,BUL
+1998,Group D,Stade Municipal,Nigeria,1,3,Paraguay,ANPRASERT Pirom (THA),NGA,PAR
+1998,Group E,Parc des Princes,Belgium,1,1,Korea Republic,REZENDE Marcio (BRA),BEL,KOR
+1998,Group E,Stade Geoffroy Guichard,Netherlands,2,2,Mexico,ALZEID Abdulrahman (KSA),NED,MEX
+1998,Group F,La Mosson,Germany,2,0,Iran,GONZALEZ CHAVEZ Epifanio (PAR),GER,IRN
+1998,Group F,La Beaujoire,USA,0,1,Yugoslavia,EL GHANDOUR Gamal (EGY),USA,YUG
+1998,Group H,Stade de Gerland,Japan,1,2,Jamaica,BENKO Gunter (AUT),JPN,JAM
+1998,Group H,Stade du Parc Lescure,Argentina,1,0,Croatia,BELQOLA Said (MAR),ARG,CRO
+1998,Group G,Stade de France,Romania,1,1,Tunisia,LENNIE Edward (AUS),ROU,TUN
+1998,Group G,Stade Felix Bollaert,Colombia,0,2,England,BRIZIO CARTER Arturo (MEX),COL,ENG
+1998,Round of 16,Stade Vï¿½lodrome,Italy,1,0,Norway,HEYNEMANN Bernd (GER),ITA,NOR
+1998,Round of 16,Parc des Princes,Brazil,4,1,Chile,BATTA Marc (FRA),BRA,CHI
+1998,Round of 16,Stade Felix Bollaert,France,1,0,Paraguay,BUJSAIM Ali (UAE),FRA,PAR
+1998,Round of 16,Stade de France,Nigeria,1,4,Denmark,MEIER Urs (SUI),NGA,DEN
+1998,Round of 16,La Mosson,Germany,2,1,Mexico,MELO PEREIRA Vitor (POR),GER,MEX
+1998,Round of 16,Stade Municipal,Netherlands,2,1,Yugoslavia,GARCIA ARANDA Jose Maria (ESP),NED,YUG
+1998,Round of 16,Stade du Parc Lescure,Romania,0,1,Croatia,CASTRILLI Javier (ARG),ROU,CRO
+1998,Round of 16,Stade Geoffroy Guichard,Argentina,2,2,England,NIELSEN Kim Milton (DEN),ARG,ENG
+1998,Quarter-finals,Stade de France,Italy,0,0,France,DALLAS Hugh (SCO),ITA,FRA
+1998,Quarter-finals,La Beaujoire,Brazil,3,2,Denmark,EL GHANDOUR Gamal (EGY),BRA,DEN
+1998,Quarter-finals,Stade Vï¿½lodrome,Netherlands,2,1,Argentina,BRIZIO CARTER Arturo (MEX),NED,ARG
+1998,Quarter-finals,Stade de Gerland,Germany,0,3,Croatia,PEDERSEN Rune (NOR),GER,CRO
+1998,Semi-finals,Stade Vï¿½lodrome,Brazil,1,1,Netherlands,BUJSAIM Ali (UAE),BRA,NED
+1998,Semi-finals,Stade de France,France,2,1,Croatia,GARCIA ARANDA Jose Maria (ESP),FRA,CRO
+1998,Match for third place,Parc des Princes,Netherlands,1,2,Croatia,GONZALEZ CHAVEZ Epifanio (PAR),NED,CRO
+1998,Final,Stade de France,Brazil,0,3,France,BELQOLA Said (MAR),BRA,FRA
+2002,Group A,Seoul World Cup Stadium,France,0,1,Senegal,BUJSAIM Ali (UAE),FRA,SEN
+2002,Group A,Munsu Football Stadium,Uruguay,1,2,Denmark,MANE Saad (KUW),URU,DEN
+2002,Group E,Niigata Stadium Big Swan,Republic of Ireland,1,1,Cameroon,KAMIKAWA Toru (JPN),IRL,CMR
+2002,Group E,Sapporo Dome,Germany,8,0,Saudi Arabia,AQUINO Ubaldo (PAR),GER,KSA
+2002,Group F,Kashima Stadium,Argentina,1,0,Nigeria,VEISSIERE Gilles (FRA),ARG,NGA
+2002,Group B,Busan Asiad Main Stadium,Paraguay,2,2,South Africa,MICHEL Lubos (SVK),PAR,RSA
+2002,Group F,Saitama Stadium 2002,England,1,1,Sweden,SIMON Carlos (BRA),ENG,SWE
+2002,Group B,Gwangju World Cup Stadium,Spain,3,1,Slovenia,GUEZZAZ Mohammed (MAR),ESP,SVN
+2002,Group C,Munsu Football Stadium,Brazil,2,1,Turkey,KIM Young Joo (KOR),BRA,TUR
+2002,Group G,Sapporo Dome,Italy,2,0,Ecuador,HALL Brian (USA),ITA,ECU
+2002,Group G,Niigata Stadium Big Swan,Croatia,0,1,Mexico,JUN Lu (CHN),CRO,MEX
+2002,Group C,Gwangju World Cup Stadium,China PR,0,2,Costa Rica,VASSARAS Kyros (GRE),CHN,CRC
+2002,Group H,Saitama Stadium 2002,Japan,2,2,Belgium,MATTUS William (CRC),JPN,BEL
+2002,Group D,Busan Asiad Main Stadium,Korea Republic,2,0,Poland,RUIZ Oscar (COL),KOR,POL
+2002,Group H,Kobe Wing Stadium,Russia,2,0,Tunisia,PRENDERGAST Peter (JAM),RUS,TUN
+2002,Group D,Suwon World Cup Stadium,USA,3,2,Portugal,MORENO Byron (ECU),USA,POR
+2002,Group E,Kashima Stadium,Germany,1,1,Republic of Ireland,NIELSEN Kim Milton (DEN),GER,IRL
+2002,Group A,Daegu World Cup Stadium,Denmark,1,1,Senegal,BATRES Carlos (GUA),DEN,SEN
+2002,Group E,Saitama Stadium 2002,Cameroon,1,0,Saudi Arabia,HAUGE Terje (NOR),CMR,KSA
+2002,Group A,Busan Asiad Main Stadium,France,0,0,Uruguay,RAMOS RIZO Felipe (MEX),FRA,URU
+2002,Group F,Kobe Wing Stadium,Sweden,2,1,Nigeria,ORTUBE Rene (BOL),SWE,NGA
+2002,Group F,Sapporo Dome,Argentina,0,1,England,COLLINA Pierluigi (ITA),ARG,ENG
+2002,Group B,Jeonju World Cup Stadium,Spain,3,1,Paraguay,EL GHANDOUR Gamal (EGY),ESP,PAR
+2002,Group B,Daegu World Cup Stadium,South Africa,1,0,Slovenia,SANCHEZ Angel (ARG),RSA,SVN
+2002,Group C,Jeju World Cup Stadium,Brazil,4,0,China PR,FRISK Anders (SWE),BRA,CHN
+2002,Group G,Kashima Stadium,Italy,1,2,Croatia,POLL Graham (ENG),ITA,CRO
+2002,Group C,Incheon Football Stadium,Costa Rica,1,1,Turkey,CODJIA Coffi (BEN),CRC,TUR
+2002,Group H,International Stadium Yokohama,Japan,1,0,Russia,MERK Markus (GER),JPN,RUS
+2002,Group G,Miyagi Stadium,Mexico,2,1,Ecuador,DAAMI Mourad (TUN),MEX,ECU
+2002,Group D,Daegu World Cup Stadium,Korea Republic,1,1,USA,MEIER Urs (SUI),KOR,USA
+2002,Group D,Jeonju World Cup Stadium,Portugal,4,0,Poland,DALLAS Hugh (SCO),POR,POL
+2002,Group H,Oita Stadium Big Eye,Tunisia,1,1,Belgium,SHIELD Mark (AUS),TUN,BEL
+2002,Group A,Incheon Football Stadium,Denmark,2,0,France,MELO PEREIRA Vitor (POR),DEN,FRA
+2002,Group A,Suwon World Cup Stadium,Senegal,3,3,Uruguay,WEGEREEF Jan (NED),SEN,URU
+2002,Group E,International Stadium Yokohama,Saudi Arabia,0,3,Republic of Ireland,NDOYE Falla (SEN),KSA,IRL
+2002,Group E,Shizuoka Stadium Ecopa,Cameroon,0,2,Germany,LOPEZ NIETO Antonio (ESP),CMR,GER
+2002,Group F,Miyagi Stadium,Sweden,1,1,Argentina,BUJSAIM Ali (UAE),SWE,ARG
+2002,Group F,Osaka Nagai Stadium,Nigeria,0,0,England,HALL Brian (USA),NGA,ENG
+2002,Group B,Jeju World Cup Stadium,Slovenia,1,3,Paraguay,RAMOS RIZO Felipe (MEX),SVN,PAR
+2002,Group B,Daejeon World Cup Stadium,South Africa,2,3,Spain,MANE Saad (KUW),RSA,ESP
+2002,Group C,Suwon World Cup Stadium,Costa Rica,2,5,Brazil,EL GHANDOUR Gamal (EGY),CRC,BRA
+2002,Group C,Seoul World Cup Stadium,Turkey,3,0,China PR,RUIZ Oscar (COL),TUR,CHN
+2002,Group G,International Stadium Yokohama,Ecuador,1,0,Croatia,MATTUS William (CRC),ECU,CRO
+2002,Group G,Oita Stadium Big Eye,Mexico,1,1,Italy,SIMON Carlos (BRA),MEX,ITA
+2002,Group H,Osaka Nagai Stadium,Tunisia,0,2,Japan,VEISSIERE Gilles (FRA),TUN,JPN
+2002,Group D,Incheon Football Stadium,Portugal,0,1,Korea Republic,SANCHEZ Angel (ARG),POR,KOR
+2002,Group D,Daejeon World Cup Stadium,Poland,3,1,USA,LU Jun (CHN),POL,USA
+2002,Group H,Shizuoka Stadium Ecopa,Belgium,3,2,Russia,NIELSEN Kim Milton (DEN),BEL,RUS
+2002,Round of 16,Niigata Stadium Big Swan,Denmark,0,3,England,MERK Markus (GER),DEN,ENG
+2002,Round of 16,Jeju World Cup Stadium,Germany,1,0,Paraguay,BATRES Carlos (GUA),GER,PAR
+2002,Round of 16,Suwon World Cup Stadium,Spain,1,1,Republic of Ireland,FRISK Anders (SWE),ESP,IRL
+2002,Round of 16,Oita Stadium Big Eye,Sweden,1,2,Senegal,AQUINO Ubaldo (PAR),SWE,SEN
+2002,Round of 16,Kobe Wing Stadium,Brazil,2,0,Belgium,PRENDERGAST Peter (JAM),BRA,BEL
+2002,Round of 16,Jeonju World Cup Stadium,Mexico,0,2,USA,MELO PEREIRA Vitor (POR),MEX,USA
+2002,Round of 16,Miyagi Stadium,Japan,0,1,Turkey,COLLINA Pierluigi (ITA),JPN,TUR
+2002,Round of 16,Daejeon World Cup Stadium,Korea Republic,2,1,Italy,MORENO Byron (ECU),KOR,ITA
+2002,Quarter-finals,Shizuoka Stadium Ecopa,England,1,2,Brazil,RAMOS RIZO Felipe (MEX),ENG,BRA
+2002,Quarter-finals,Munsu Football Stadium,Germany,1,0,USA,DALLAS Hugh (SCO),GER,USA
+2002,Quarter-finals,Osaka Nagai Stadium,Senegal,0,1,Turkey,RUIZ Oscar (COL),SEN,TUR
+2002,Quarter-finals,Gwangju World Cup Stadium,Spain,0,0,Korea Republic,EL GHANDOUR Gamal (EGY),ESP,KOR
+2002,Semi-finals,Seoul World Cup Stadium,Germany,1,0,Korea Republic,MEIER Urs (SUI),GER,KOR
+2002,Semi-finals,Saitama Stadium 2002,Brazil,1,0,Turkey,NIELSEN Kim Milton (DEN),BRA,TUR
+2002,Third place,Daegu World Cup Stadium,Korea Republic,2,3,Turkey,MANE Saad (KUW),KOR,TUR
+2002,Final,International Stadium Yokohama,Germany,0,2,Brazil,COLLINA Pierluigi (ITA),GER,BRA
+2006,Group A,"FIFA World Cup Stadium, Munich",Germany,4,2,Costa Rica,ELIZONDO Horacio (ARG),GER,CRC
+2006,Group A,"FIFA World Cup Stadium, Gelsenkirchen",Poland,0,2,Ecuador,KAMIKAWA Toru (JPN),POL,ECU
+2006,Group B,"FIFA World Cup Stadium, Frankfurt",England,1,0,Paraguay,RODRIGUEZ Marco (MEX),ENG,PAR
+2006,Group B,"FIFA World Cup Stadium, Dortmund",Trinidad and Tobago,0,0,Sweden,MAIDIN Shamsul (SIN),TRI,SWE
+2006,Group C,"FIFA World Cup Stadium, Hamburg",Argentina,2,1,Cï¿½te d'Ivoire,DE BLEECKERE Frank (BEL),ARG,CIV
+2006,Group C,Zentralstadion,Serbia and Montenegro,0,1,Netherlands,MERK Markus (GER),SCG,NED
+2006,Group D,Franken-Stadion,Mexico,3,1,Iran,ROSETTI Roberto (ITA),MEX,IRN
+2006,Group D,"FIFA World Cup Stadium, Cologne",Angola,0,1,Portugal,LARRIONDA Jorge (URU),ANG,POR
+2006,Group F,Fritz-Walter-Stadion,Australia,3,1,Japan,ABD EL FATAH Essam (EGY),AUS,JPN
+2006,Group E,"FIFA World Cup Stadium, Gelsenkirchen",USA,0,3,Czech Republic,AMARILLA Carlos (PAR),USA,CZE
+2006,Group E,"FIFA World Cup Stadium, Hanover",Italy,2,0,Ghana,SIMON Carlos (BRA),ITA,GHA
+2006,Group G,"FIFA World Cup Stadium, Frankfurt",Korea Republic,2,1,Togo,POLL Graham (ENG),KOR,TOG
+2006,Group G,Gottlieb-Daimler-Stadion,France,0,0,Switzerland,IVANOV Valentin (RUS),FRA,SUI
+2006,Group F,Olympiastadion,Brazil,1,0,Croatia,ARCHUNDIA Benito (MEX),BRA,CRO
+2006,Group H,Zentralstadion,Spain,4,0,Ukraine,BUSACCA Massimo (SUI),ESP,UKR
+2006,Group H,"FIFA World Cup Stadium, Munich",Tunisia,2,2,Saudi Arabia,SHIELD Mark (AUS),TUN,KSA
+2006,Group A,"FIFA World Cup Stadium, Dortmund",Germany,1,0,Poland,MEDINA CANTALEJO Luis (ESP),GER,POL
+2006,Group A,"FIFA World Cup Stadium, Hamburg",Ecuador,3,0,Costa Rica,CODJIA Coffi (BEN),ECU,CRC
+2006,Group B,Franken-Stadion,England,2,0,Trinidad and Tobago,KAMIKAWA Toru (JPN),ENG,TRI
+2006,Group B,Olympiastadion,Sweden,1,0,Paraguay,MICHEL Lubos (SVK),SWE,PAR
+2006,Group C,"FIFA World Cup Stadium, Gelsenkirchen",Argentina,6,0,Serbia and Montenegro,ROSETTI Roberto (ITA),ARG,SCG
+2006,Group C,Gottlieb-Daimler-Stadion,Netherlands,2,1,Cï¿½te d'Ivoire,RUIZ Oscar (COL),NED,CIV
+2006,Group D,"FIFA World Cup Stadium, Hanover",Mexico,0,0,Angola,MAIDIN Shamsul (SIN),MEX,ANG
+2006,Group D,"FIFA World Cup Stadium, Frankfurt",Portugal,2,0,IR Iran,POULAT Eric (FRA),POR,IRN
+2006,Group E,"FIFA World Cup Stadium, Cologne",Czech Republic,0,2,Ghana,ELIZONDO Horacio (ARG),CZE,GHA
+2006,Group E,Fritz-Walter-Stadion,Italy,1,1,USA,LARRIONDA Jorge (URU),ITA,USA
+2006,Group F,Franken-Stadion,Japan,0,0,Croatia,DE BLEECKERE Frank (BEL),JPN,CRO
+2006,Group F,"FIFA World Cup Stadium, Munich",Brazil,2,0,Australia,MERK Markus (GER),BRA,AUS
+2006,Group G,Zentralstadion,France,1,1,Korea Republic,ARCHUNDIA Benito (MEX),FRA,KOR
+2006,Group G,"FIFA World Cup Stadium, Dortmund",Togo,0,2,Switzerland,AMARILLA Carlos (PAR),TOG,SUI
+2006,Group H,"FIFA World Cup Stadium, Hamburg",Saudi Arabia,0,4,Ukraine,POLL Graham (ENG),KSA,UKR
+2006,Group H,Gottlieb-Daimler-Stadion,Spain,3,1,Tunisia,SIMON Carlos (BRA),ESP,TUN
+2006,Group A,Olympiastadion,Ecuador,0,3,Germany,IVANOV Valentin (RUS),ECU,GER
+2006,Group A,"FIFA World Cup Stadium, Hanover",Costa Rica,1,2,Poland,MAIDIN Shamsul (SIN),CRC,POL
+2006,Group B,"FIFA World Cup Stadium, Cologne",Sweden,2,2,England,BUSACCA Massimo (SUI),SWE,ENG
+2006,Group B,Fritz-Walter-Stadion,Paraguay,2,0,Trinidad and Tobago,ROSETTI Roberto (ITA),PAR,TRI
+2006,Group D,Zentralstadion,Iran,1,1,Angola,SHIELD Mark (AUS),IRN,ANG
+2006,Group D,"FIFA World Cup Stadium, Gelsenkirchen",Portugal,2,1,Mexico,MICHEL Lubos (SVK),POR,MEX
+2006,Group C,"FIFA World Cup Stadium, Frankfurt",Netherlands,0,0,Argentina,MEDINA CANTALEJO Luis (ESP),NED,ARG
+2006,Group C,"FIFA World Cup Stadium, Munich",Cï¿½te d'Ivoire,3,2,Serbia and Montenegro,RODRIGUEZ Marco (MEX),CIV,SCG
+2006,Group E,"FIFA World Cup Stadium, Hamburg",Czech Republic,0,2,Italy,ARCHUNDIA Benito (MEX),CZE,ITA
+2006,Group E,Franken-Stadion,Ghana,2,1,USA,MERK Markus (GER),GHA,USA
+2006,Group F,"FIFA World Cup Stadium, Dortmund",Japan,1,4,Brazil,POULAT Eric (FRA),JPN,BRA
+2006,Group F,Gottlieb-Daimler-Stadion,Croatia,2,2,Australia,POLL Graham (ENG),CRO,AUS
+2006,Group H,Olympiastadion,Ukraine,1,0,Tunisia,AMARILLA Carlos (PAR),UKR,TUN
+2006,Group H,Fritz-Walter-Stadion,Saudi Arabia,0,1,Spain,CODJIA Coffi (BEN),KSA,ESP
+2006,Group G,"FIFA World Cup Stadium, Cologne",Togo,0,2,France,LARRIONDA Jorge (URU),TOG,FRA
+2006,Group G,"FIFA World Cup Stadium, Hanover",Switzerland,2,0,Korea Republic,ELIZONDO Horacio (ARG),SUI,KOR
+2006,Round of 16,"FIFA World Cup Stadium, Munich",Germany,2,0,Sweden,SIMON Carlos (BRA),GER,SWE
+2006,Round of 16,Zentralstadion,Argentina,2,1,Mexico,BUSACCA Massimo (SUI),ARG,MEX
+2006,Round of 16,Gottlieb-Daimler-Stadion,England,1,0,Ecuador,DE BLEECKERE Frank (BEL),ENG,ECU
+2006,Round of 16,Franken-Stadion,Portugal,1,0,Netherlands,IVANOV Valentin (RUS),POR,NED
+2006,Round of 16,Fritz-Walter-Stadion,Italy,1,0,Australia,MEDINA CANTALEJO Luis (ESP),ITA,AUS
+2006,Round of 16,"FIFA World Cup Stadium, Cologne",Switzerland,0,0,Ukraine,ARCHUNDIA Benito (MEX),SUI,UKR
+2006,Round of 16,"FIFA World Cup Stadium, Dortmund",Brazil,3,0,Ghana,MICHEL Lubos (SVK),BRA,GHA
+2006,Round of 16,"FIFA World Cup Stadium, Hanover",Spain,1,3,France,ROSETTI Roberto (ITA),ESP,FRA
+2006,Quarter-finals,Olympiastadion,Germany,1,1,Argentina,MICHEL Lubos (SVK),GER,ARG
+2006,Quarter-finals,"FIFA World Cup Stadium, Hamburg",Italy,3,0,Ukraine,DE BLEECKERE Frank (BEL),ITA,UKR
+2006,Quarter-finals,"FIFA World Cup Stadium, Gelsenkirchen",England,0,0,Portugal,ELIZONDO Horacio (ARG),ENG,POR
+2006,Quarter-finals,"FIFA World Cup Stadium, Frankfurt",Brazil,0,1,France,MEDINA CANTALEJO Luis (ESP),BRA,FRA
+2006,Semi-finals,"FIFA World Cup Stadium, Dortmund",Germany,0,2,Italy,ARCHUNDIA Benito (MEX),GER,ITA
+2006,Semi-finals,"FIFA World Cup Stadium, Munich",Portugal,0,1,France,LARRIONDA Jorge (URU),POR,FRA
+2006,Third place,Gottlieb-Daimler-Stadion,Germany,3,1,Portugal,KAMIKAWA Toru (JPN),GER,POR
+2006,Final,Olympiastadion,Italy,1,1,France,ELIZONDO Horacio (ARG),ITA,FRA
+2010,Group A,Soccer City Stadium,South Africa,1,1,Mexico,Ravshan IRMATOV (UZB),RSA,MEX
+2010,Group A,Cape Town Stadium,Uruguay,0,0,France,NISHIMURA Yuichi (JPN),URU,FRA
+2010,Group B,Port Elizabeth Stadium,Korea Republic,2,0,Greece,HESTER Michael (NZL),KOR,GRE
+2010,Group B,Ellis Park Stadium,Argentina,1,0,Nigeria,Wolfgang STARK (GER),ARG,NGA
+2010,Group C,Royal Bafokeng Sports Palace,England,1,1,USA,SIMON Carlos (BRA),ENG,USA
+2010,Group C,Peter Mokaba Stadium,Algeria,0,1,Slovenia,BATRES Carlos (GUA),ALG,SVN
+2010,Group D,Loftus Versfeld Stadium,Serbia,0,1,Ghana,BALDASSI Hector (ARG),SRB,GHA
+2010,Group D,Durban Stadium,Germany,4,0,Australia,RODRIGUEZ Marco (MEX),GER,AUS
+2010,Group E,Soccer City Stadium,Netherlands,2,0,Denmark,Stï¿½phane LANNOY (FRA),NED,DEN
+2010,Group E,Free State Stadium,Japan,1,0,Cameroon,Olegï¿½rio BENQUERENï¿½A (POR),JPN,CMR
+2010,Group F,Cape Town Stadium,Italy,1,1,Paraguay,ARCHUNDIA Benito (MEX),ITA,PAR
+2010,Group F,Royal Bafokeng Sports Palace,New Zealand,1,1,Slovakia,DAMON Jerome (RSA),NZL,SVK
+2010,Group G,Port Elizabeth Stadium,Cï¿½te d'Ivoire,0,0,Portugal,LARRIONDA Jorge (URU),CIV,POR
+2010,Group G,Ellis Park Stadium,Brazil,2,1,Korea DPR,KASSAI Viktor (HUN),BRA,PRK
+2010,Group H,Mbombela Stadium,Honduras,0,1,Chile,MAILLET Eddy (SEY),HON,CHI
+2010,Group H,Durban Stadium,Spain,0,1,Switzerland,WEBB Howard (ENG),ESP,SUI
+2010,Group A,Loftus Versfeld Stadium,South Africa,0,3,Uruguay,BUSACCA Massimo (SUI),RSA,URU
+2010,Group B,Soccer City Stadium,Argentina,4,1,Korea Republic,DE BLEECKERE Frank (BEL),ARG,KOR
+2010,Group B,Free State Stadium,Greece,2,1,Nigeria,RUIZ Oscar (COL),GRE,NGA
+2010,Group A,Peter Mokaba Stadium,France,0,2,Mexico,AL GHAMDI Khalil (KSA),FRA,MEX
+2010,Group D,Port Elizabeth Stadium,Germany,0,1,Serbia,Alberto UNDIANO MALLENCO (ESP),GER,SRB
+2010,Group C,Ellis Park Stadium,Slovenia,2,2,USA,Koman COULIBALY (MLI),SVN,USA
+2010,Group C,Cape Town Stadium,England,0,0,Algeria,Ravshan IRMATOV (UZB),ENG,ALG
+2010,Group E,Durban Stadium,Netherlands,1,0,Japan,BALDASSI Hector (ARG),NED,JPN
+2010,Group D,Royal Bafokeng Sports Palace,Ghana,1,1,Australia,ROSETTI Roberto (ITA),GHA,AUS
+2010,Group E,Loftus Versfeld Stadium,Cameroon,1,2,Denmark,LARRIONDA Jorge (URU),CMR,DEN
+2010,Group F,Free State Stadium,Slovakia,0,2,Paraguay,MAILLET Eddy (SEY),SVK,PAR
+2010,Group F,Mbombela Stadium,Italy,1,1,New Zealand,BATRES Carlos (GUA),ITA,NZL
+2010,Group G,Soccer City Stadium,Brazil,3,1,Cï¿½te d'Ivoire,Stï¿½phane LANNOY (FRA),BRA,CIV
+2010,Group G,Cape Town Stadium,Portugal,7,0,Korea DPR,POZO Pablo (CHI),POR,PRK
+2010,Group H,Port Elizabeth Stadium,Chile,1,0,Switzerland,AL GHAMDI Khalil (KSA),CHI,SUI
+2010,Group H,Ellis Park Stadium,Spain,2,0,Honduras,NISHIMURA Yuichi (JPN),ESP,HON
+2010,Group A,Royal Bafokeng Sports Palace,Mexico,0,1,Uruguay,KASSAI Viktor (HUN),MEX,URU
+2010,Group A,Free State Stadium,France,1,2,South Africa,RUIZ Oscar (COL),FRA,RSA
+2010,Group B,Durban Stadium,Nigeria,2,2,Korea Republic,Olegï¿½rio BENQUERENï¿½A (POR),NGA,KOR
+2010,Group B,Peter Mokaba Stadium,Greece,0,2,Argentina,Ravshan IRMATOV (UZB),GRE,ARG
+2010,Group C,Port Elizabeth Stadium,Slovenia,0,1,England,Wolfgang STARK (GER),SVN,ENG
+2010,Group C,Loftus Versfeld Stadium,USA,1,0,Algeria,DE BLEECKERE Frank (BEL),USA,ALG
+2010,Group D,Soccer City Stadium,Ghana,0,1,Germany,SIMON Carlos (BRA),GHA,GER
+2010,Group D,Mbombela Stadium,Australia,2,1,Serbia,LARRIONDA Jorge (URU),AUS,SRB
+2010,Group F,Ellis Park Stadium,Slovakia,3,2,Italy,WEBB Howard (ENG),SVK,ITA
+2010,Group F,Peter Mokaba Stadium,Paraguay,0,0,New Zealand,NISHIMURA Yuichi (JPN),PAR,NZL
+2010,Group E,Royal Bafokeng Sports Palace,Denmark,1,3,Japan,DAMON Jerome (RSA),DEN,JPN
+2010,Group E,Cape Town Stadium,Cameroon,1,2,Netherlands,POZO Pablo (CHI),CMR,NED
+2010,Group G,Durban Stadium,Portugal,0,0,Brazil,ARCHUNDIA Benito (MEX),POR,BRA
+2010,Group G,Mbombela Stadium,Korea DPR,0,3,Cï¿½te d'Ivoire,Alberto UNDIANO MALLENCO (ESP),PRK,CIV
+2010,Group H,Loftus Versfeld Stadium,Chile,1,2,Spain,RODRIGUEZ Marco (MEX),CHI,ESP
+2010,Group H,Free State Stadium,Switzerland,0,0,Honduras,BALDASSI Hector (ARG),SUI,HON
+2010,Round of 16,Port Elizabeth Stadium,Uruguay,2,1,Korea Republic,Wolfgang STARK (GER),URU,KOR
+2010,Round of 16,Royal Bafokeng Sports Palace,USA,1,2,Ghana,KASSAI Viktor (HUN),USA,GHA
+2010,Round of 16,Free State Stadium,Germany,4,1,England,LARRIONDA Jorge (URU),GER,ENG
+2010,Round of 16,Soccer City Stadium,Argentina,3,1,Mexico,ROSETTI Roberto (ITA),ARG,MEX
+2010,Round of 16,Durban Stadium,Netherlands,2,1,Slovakia,Alberto UNDIANO MALLENCO (ESP),NED,SVK
+2010,Round of 16,Ellis Park Stadium,Brazil,3,0,Chile,WEBB Howard (ENG),BRA,CHI
+2010,Round of 16,Loftus Versfeld Stadium,Paraguay,0,0,Japan,DE BLEECKERE Frank (BEL),PAR,JPN
+2010,Round of 16,Cape Town Stadium,Spain,1,0,Portugal,BALDASSI Hector (ARG),ESP,POR
+2010,Quarter-finals,Port Elizabeth Stadium,Netherlands,2,1,Brazil,NISHIMURA Yuichi (JPN),NED,BRA
+2010,Quarter-finals,Soccer City Stadium,Uruguay,1,1,Ghana,Olegï¿½rio BENQUERENï¿½A (POR),URU,GHA
+2010,Quarter-finals,Cape Town Stadium,Argentina,0,4,Germany,Ravshan IRMATOV (UZB),ARG,GER
+2010,Quarter-finals,Ellis Park Stadium,Paraguay,0,1,Spain,BATRES Carlos (GUA),PAR,ESP
+2010,Semi-finals,Cape Town Stadium,Uruguay,2,3,Netherlands,Ravshan IRMATOV (UZB),URU,NED
+2010,Semi-finals,Durban Stadium,Germany,0,1,Spain,KASSAI Viktor (HUN),GER,ESP
+2010,Match for third place,Port Elizabeth Stadium,Uruguay,2,3,Germany,ARCHUNDIA Benito (MEX),URU,GER
+2010,Final,Soccer City Stadium,Netherlands,0,1,Spain,WEBB Howard (ENG),NED,ESP
+2014,Group A,Arena de Sao Paulo,Brazil,3,1,Croatia,NISHIMURA Yuichi (JPN),BRA,CRO
+2014,Group A,Estadio das Dunas,Mexico,1,0,Cameroon,ROLDAN Wilmar (COL),MEX,CMR
+2014,Group B,Arena Fonte Nova,Spain,1,5,Netherlands,Nicola RIZZOLI (ITA),ESP,NED
+2014,Group B,Arena Pantanal,Chile,3,1,Australia,Noumandiez DOUE (CIV),CHI,AUS
+2014,Group C,Estadio Mineirao,Colombia,3,0,Greece,GEIGER Mark (USA),COL,GRE
+2014,Group D,Estadio Castelao,Uruguay,1,3,Costa Rica,BRYCH Felix (GER),URU,CRC
+2014,Group D,Arena Amazonia,England,1,2,Italy,Bjï¿½rn KUIPERS (NED),ENG,ITA
+2014,Group C,Arena Pernambuco,Cï¿½te d'Ivoire,2,1,Japan,OSSES Enrique (CHI),CIV,JPN
+2014,Group E,Estadio Nacional,Switzerland,2,1,Ecuador,Ravshan IRMATOV (UZB),SUI,ECU
+2014,Group E,Estadio Beira-Rio,France,3,0,Honduras,RICCI Sandro (BRA),FRA,HON
+2014,Group F,Estadio do Maracana,Argentina,2,1,Bosnia and Herzegovina,AGUILAR Joel (SLV),ARG,BIH
+2014,Group G,Arena Fonte Nova,Germany,4,0,Portugal,MAZIC Milorad (SRB),GER,POR
+2014,Group F,Arena da Baixada,IR Iran,0,0,Nigeria,VERA Carlos (ECU),IRN,NGA
+2014,Group G,Estadio das Dunas,Ghana,1,2,USA,ERIKSSON Jonas (SWE),GHA,USA
+2014,Group H,Estadio Mineirao,Belgium,2,1,Algeria,RODRIGUEZ Marco (MEX),BEL,ALG
+2014,Group A,Estadio Castelao,Brazil,0,0,Mexico,Cï¿½neyt ï¿½AKIR (TUR),BRA,MEX
+2014,Group H,Arena Pantanal,Russia,1,1,Korea Republic,PITANA Nestor (ARG),RUS,KOR
+2014,Group B,Estadio Beira-Rio,Australia,2,3,Netherlands,HAIMOUDI Djamel (ALG),AUS,NED
+2014,Group B,Estadio do Maracana,Spain,0,2,Chile,GEIGER Mark (USA),ESP,CHI
+2014,Group A,Arena Amazonia,Cameroon,0,4,Croatia,PROENCA Pedro (POR),CMR,CRO
+2014,Group C,Estadio Nacional,Colombia,2,1,Cï¿½te d'Ivoire,WEBB Howard (ENG),COL,CIV
+2014,Group D,Arena de Sao Paulo,Uruguay,2,1,England,Carlos VELASCO CARBALLO (ESP),URU,ENG
+2014,Group C,Estadio das Dunas,Japan,0,0,Greece,AGUILAR Joel (SLV),JPN,GRE
+2014,Group D,Arena Pernambuco,Italy,0,1,Costa Rica,OSSES Enrique (CHI),ITA,CRC
+2014,Group E,Arena Fonte Nova,Switzerland,2,5,France,Bjï¿½rn KUIPERS (NED),SUI,FRA
+2014,Group E,Arena da Baixada,Honduras,1,2,Ecuador,Ben WILLIAMS (AUS),HON,ECU
+2014,Group F,Estadio Mineirao,Argentina,1,0,IR Iran,MAZIC Milorad (SRB),ARG,IRN
+2014,Group G,Estadio Castelao,Germany,2,2,Ghana,RICCI Sandro (BRA),GER,GHA
+2014,Group F,Arena Pantanal,Nigeria,1,0,Bosnia and Herzegovina,Peter O'LEARY (NZL),NGA,BIH
+2014,Group H,Estadio do Maracana,Belgium,1,0,Russia,BRYCH Felix (GER),BEL,RUS
+2014,Group H,Estadio Beira-Rio,Korea Republic,2,4,Algeria,ROLDAN Wilmar (COL),KOR,ALG
+2014,Group G,Arena Amazonia,USA,2,2,Portugal,PITANA Nestor (ARG),USA,POR
+2014,Group B,Arena da Baixada,Australia,0,3,Spain,SHUKRALLA Nawaf (BHR),AUS,ESP
+2014,Group B,Arena de Sao Paulo,Netherlands,2,0,Chile,Bakary GASSAMA (GAM),NED,CHI
+2014,Group A,Estadio Nacional,Cameroon,1,4,Brazil,ERIKSSON Jonas (SWE),CMR,BRA
+2014,Group A,Arena Pernambuco,Croatia,1,3,Mexico,Ravshan IRMATOV (UZB),CRO,MEX
+2014,Group D,Estadio das Dunas,Italy,0,1,Uruguay,RODRIGUEZ Marco (MEX),ITA,URU
+2014,Group D,Estadio Mineirao,Costa Rica,0,0,England,HAIMOUDI Djamel (ALG),CRC,ENG
+2014,Group C,Arena Pantanal,Japan,1,4,Colombia,PROENCA Pedro (POR),JPN,COL
+2014,Group C,Estadio Castelao,Greece,2,1,Cï¿½te d'Ivoire,VERA Carlos (ECU),GRE,CIV
+2014,Group F,Estadio Beira-Rio,Nigeria,2,3,Argentina,Nicola RIZZOLI (ITA),NGA,ARG
+2014,Group F,Arena Fonte Nova,Bosnia and Herzegovina,3,1,IR Iran,Carlos VELASCO CARBALLO (ESP),BIH,IRN
+2014,Group E,Arena Amazonia,Honduras,0,3,Switzerland,PITANA Nestor (ARG),HON,SUI
+2014,Group E,Estadio do Maracana,Ecuador,0,0,France,Noumandiez DOUE (CIV),ECU,FRA
+2014,Group G,Arena Pernambuco,USA,0,1,Germany,Ravshan IRMATOV (UZB),USA,GER
+2014,Group G,Estadio Nacional,Portugal,2,1,Ghana,SHUKRALLA Nawaf (BHR),POR,GHA
+2014,Group H,Arena de Sao Paulo,Korea Republic,0,1,Belgium,Ben WILLIAMS (AUS),KOR,BEL
+2014,Group H,Arena da Baixada,Algeria,1,1,Russia,Cï¿½neyt ï¿½AKIR (TUR),ALG,RUS
+2014,Round of 16,Estadio Mineirao,Brazil,1,1,Chile,WEBB Howard (ENG),BRA,CHI
+2014,Round of 16,Estadio do Maracana,Colombia,2,0,Uruguay,Bjï¿½rn KUIPERS (NED),COL,URU
+2014,Round of 16,Estadio Nacional,France,2,0,Nigeria,GEIGER Mark (USA),FRA,NGA
+2014,Round of 16,Estadio Beira-Rio,Germany,2,1,Algeria,RICCI Sandro (BRA),GER,ALG
+2014,Quarter-finals,Estadio Castelao,Brazil,2,1,Colombia,Carlos VELASCO CARBALLO (ESP),BRA,COL
+2014,Quarter-finals,Estadio do Maracana,France,0,1,Germany,PITANA Nestor (ARG),FRA,GER
+2014,Semi-finals,Estadio Mineirao,Brazil,1,7,Germany,RODRIGUEZ Marco (MEX),BRA,GER
+2014,Play-off for third place,Estadio Nacional,Brazil,0,3,Netherlands,HAIMOUDI Djamel (ALG),BRA,NED
+2014,Final,Estadio do Maracana,Germany,1,0,Argentina,Nicola RIZZOLI (ITA),GER,ARG
+2014,Semi-finals,Arena de Sao Paulo,Netherlands,0,0,Argentina,Cï¿½neyt ï¿½AKIR (TUR),NED,ARG
+2014,Quarter-finals,Arena Fonte Nova,Netherlands,0,0,Costa Rica,Ravshan IRMATOV (UZB),NED,CRC
+2014,Quarter-finals,Estadio Nacional,Argentina,1,0,Belgium,Nicola RIZZOLI (ITA),ARG,BEL
+2014,Round of 16,Estadio Castelao,Netherlands,2,1,Mexico,PROENCA Pedro (POR),NED,MEX
+2014,Round of 16,Arena Pernambuco,Costa Rica,1,1,Greece,Ben WILLIAMS (AUS),CRC,GRE
+2014,Round of 16,Arena de Sao Paulo,Argentina,1,0,Switzerland,ERIKSSON Jonas (SWE),ARG,SUI
+2014,Round of 16,Arena Fonte Nova,Belgium,2,1,USA,HAIMOUDI Djamel (ALG),BEL,USA
+2014,Round of 16,Estadio Mineirao,Brazil,1,1,Chile,WEBB Howard (ENG),BRA,CHI
+2014,Round of 16,Estadio do Maracana,Colombia,2,0,Uruguay,Bjï¿½rn KUIPERS (NED),COL,URU
+2014,Round of 16,Estadio Castelao,Netherlands,2,1,Mexico,PROENCA Pedro (POR),NED,MEX
+2014,Round of 16,Arena Pernambuco,Costa Rica,1,1,Greece,Ben WILLIAMS (AUS),CRC,GRE
+2014,Round of 16,Estadio Nacional,France,2,0,Nigeria,GEIGER Mark (USA),FRA,NGA
+2014,Round of 16,Estadio Beira-Rio,Germany,2,1,Algeria,RICCI Sandro (BRA),GER,ALG
+2014,Round of 16,Arena de Sao Paulo,Argentina,1,0,Switzerland,ERIKSSON Jonas (SWE),ARG,SUI
+2014,Round of 16,Arena Fonte Nova,Belgium,2,1,USA,HAIMOUDI Djamel (ALG),BEL,USA
+2014,Quarter-finals,Estadio do Maracana,France,0,1,Germany,PITANA Nestor (ARG),FRA,GER
+2014,Quarter-finals,Estadio Castelao,Brazil,2,1,Colombia,Carlos VELASCO CARBALLO (ESP),BRA,COL
+2014,Quarter-finals,Estadio Nacional,Argentina,1,0,Belgium,Nicola RIZZOLI (ITA),ARG,BEL
+2014,Quarter-finals,Arena Fonte Nova,Netherlands,0,0,Costa Rica,Ravshan IRMATOV (UZB),NED,CRC
+2014,Semi-finals,Estadio Mineirao,Brazil,1,7,Germany,RODRIGUEZ Marco (MEX),BRA,GER
+2014,Semi-finals,Arena de Sao Paulo,Netherlands,0,0,Argentina,Cï¿½neyt ï¿½AKIR (TUR),NED,ARG
+2014,Play-off for third place,Estadio Nacional,Brazil,0,3,Netherlands,HAIMOUDI Djamel (ALG),BRA,NED
+2014,Final,Estadio do Maracana,Germany,1,0,Argentina,Nicola RIZZOLI (ITA),GER,ARG
+2018,Group A,"Luzhniki Stadium, Moscow",Russia,5,0,Saudi Arabia,Néstor Pitana (Argentina),RUS,KSA
+2018,Group A,"Central Stadium, Yekaterinburg",Egypt,0,1,Uruguay,Björn Kuipers (Netherlands),EGY,URU
+2018,Group A,"Krestovsky Stadium, Saint Petersburg",Russia,3,1,Egypt,Enrique Cáceres (Paraguay),RUS,EGY
+2018,Group A,"Rostov Arena, Rostov-on-Don",Uruguay,1,0,Saudi Arabia,Clément Turpin (France),URU,KSA
+2018,Group A,"Cosmos Arena, Samara",Uruguay,3,0,Russia ,Malang Diedhiou (Senegal),URU,RUS
+2018,Group A,"Volgograd Arena, Volgograd",Saudi Arabia,2,1,Egypt,Wilmar Roldán (Colombia),KSA,RUS
+2018,Group B,"Krestovsky Stadium, Saint Petersburg",Morocco,0,1, Iran,Cüneyt Çak?r (Turkey),MAR,IRN
+2018,Group B,"Fisht Olympic Stadium, Sochi",Portugal,3,3, Spain,Gianluca Rocchi (Italy),POR,ESP
+2018,Group B,"Luzhniki Stadium, Moscow",Portugal,1,0,Morocco,Mark Geiger (United States),POR,MAR
+2018,Group B,"Kazan Arena, Kazan", Iran,0,1, Spain,Andrés Cunha (Uruguay),IRN,ESP
+2018,Group B,"Mordovia Arena, Saransk", Iran,1,1,Portugal,Enrique Cáceres (Paraguay),IRN,POR
+2018,Group B,"Kaliningrad Stadium, Kaliningrad", Spain,2,2,Morocco,Ravshan Irmatov (Uzbekistan),ESP,MAR
+2018,Group C,"Kazan Arena, Kazan",France,2,1,Australia,Andrés Cunha (Uruguay),FRA,AUS
+2018,Group C,"Mordovia Arena, Saransk",Peru,0,1,Denmark,Bakary Gassama (Gambia),PER,DEN
+2018,Group C,"Cosmos Arena, Samara",Denmark,1,1,Australia,Antonio Mateu Lahoz (Spain),FRA,AUS
+2018,Group C,"Central Stadium, Yekaterinburg",France,1,0,Peru,Mohammed Abdulla Hassan Mohamed (United Arab Emirates),DEN,PER
+2018,Group C,"Luzhniki Stadium, Moscow",Denmark,0,0,France,Sandro Ricci (Brazil),DEN,FRA
+2018,Group C,"Fisht Olympic Stadium, Sochi",Australia,0,2,Peru,Sergei Karasev (Russia),AUS,PER
+2018,Group D,"Otkritie Arena, Moscow",Argentina,1,1,Iceland,Szymon Marciniak (Poland),ARG,ISL
+2018,Group D,"Kaliningrad Stadium, Kaliningrad",Croatia,2,0,Nigeria,Sandro Ricci (Brazil),CRO,NGA
+2018,Group D,"Nizhny Novgorod Stadium, Nizhny Novgorod",Argentina,0,3,Croatia,Ravshan Irmatov (Uzbekistan),ARG,CRO
+2018,Group D,"Volgograd Arena, Volgograd",Nigeria,2,0,Iceland,Matthew Conger (New Zealand),NGA,ISL
+2018,Group D,"Krestovsky Stadium, Saint Petersburg",Nigeria,1,2,Argentina,Cüneyt Çak?r (Turkey),NGA,ARG
+2018,Group D,"Rostov Arena, Rostov-on-Don",Iceland,1,2,Croatia,Antonio Mateu Lahoz (Spain),ISL,CRO
+2018,Group E,"Cosmos Arena, Samara",Costa Rica,0,1,Serbia,Malang Diedhiou (Senegal),CRC,SRB
+2018,Group E,"Rostov Arena, Rostov-on-Don",Brazil,1,1,Switzerland,César Arturo Ramos (Mexico),BRA,SUI
+2018,Group E,"Krestovsky Stadium, Saint Petersburg",Brazil,2,0,Costa Rica,Björn Kuipers (Netherlands),BRA,CRC
+2018,Group E,"Kaliningrad Stadium, Kaliningrad",Serbia,1,2,Switzerland,Felix Brych (Germany),SRB,SUI
+2018,Group E,"Otkritie Arena, Moscow",Serbia,0,2,Brazil,Alireza Faghani (Iran),SRB,BRA
+2018,Group E,"Nizhny Novgorod Stadium, Nizhny Novgorod",Switzerland,2,2,Costa Rica,Clément Turpin (France),SUI,CRC
+2018,Group F,"Luzhniki Stadium, Moscow",Germany,0,1,Mexico,Alireza Faghani (Iran),GER,MEX
+2018,Group F,"Nizhny Novgorod Stadium, Nizhny Novgorod",Sweden,1,0,South Korea,Joel Aguilar (El Salvador),SWE,KOR
+2018,Group F,"Rostov Arena, Rostov-on-Don",South Korea,1,2,Mexico,Milorad Maži? (Serbia),KOR,MEX
+2018,Group F,"Fisht Olympic Stadium, Sochi",Germany,2,1,Sweden,Szymon Marciniak (Poland),GER,SWE
+2018,Group F,"Kazan Arena, Kazan",South Korea,2,0,Germany,Mark Geiger (United States),KOR,GER
+2018,Group F,"Central Stadium, Yekaterinburg",Mexico,0,3,Sweden,Néstor Pitana (Argentina),MEX,SWE
+2018,Group G,"Fisht Olympic Stadium, Sochi",Belgium,3,0,Panama,Janny Sikazwe (Zambia),BEL,PAN
+2018,Group G,"Volgograd Arena, Volgograd",Tunisia,1,2,England,Wilmar Roldán (Colombia),TUN,ENG
+2018,Group G,"Otkritie Arena, Moscow",Belgium,5,2,Tunisia,Jair Marrufo (United States),BEL,TUN
+2018,Group G,"Nizhny Novgorod Stadium, Nizhny Novgorod",England,6,1,Panama,Gehad Grisha (Egypt),ENG,TUN
+2018,Group G,"Kaliningrad Stadium, Kaliningrad",England,0,1,Belgium,Damir Skomina (Slovenia),ENG,BEL
+2018,Group G,"Mordovia Arena, Saransk",Panama,1,2,Tunisia,Nawaf Shukralla (Bahrain),PAN,TUN
+2018,Group H,"Mordovia Arena, Saransk",Colombia,1,2,Japan,Damir Skomina (Slovenia),COL,JPN
+2018,Group H,"Otkritie Arena, Moscow",Poland,1,2,Senegal,Nawaf Shukralla (Bahrain),POL,SEN
+2018,Group H,"Central Stadium, Yekaterinburg",Japan,2,2,Senegal,Gianluca Rocchi (Italy),JPN,SEN
+2018,Group H,"Kazan Arena, Kazan",Poland,0,3,Colombia,César Arturo Ramos (Mexico),POL,COL
+2018,Group H,"Volgograd Arena, Volgograd",Japan,0,1,Poland,Janny Sikazwe (Zambia),JPN,POL
+2018,Group H,"Cosmos Arena, Samara",Senegal,0,1,Colombia,Milorad Maži? (Serbia),SEN,COL
+2018,Round of 16,"Kazan Arena, Kazan",France,4,3,Argentina,Alireza Faghani (Iran),FRA,ARG
+2018,Round of 16,"Fisht Olympic Stadium, Sochi",Uruguay,2,1,Portugal,César Arturo Ramos (Mexico),URU,POR
+2018,Round of 16,"Luzhniki Stadium, Moscow",Spain,1,1,Russia,Björn Kuipers (Netherlands),ESP,RUS
+2018,Round of 16,"Nizhny Novgorod Stadium, Nizhny Novgorod",Croatia,1,1,Denmark,Néstor Pitana (Argentina),CRO,DEN
+2018,Round of 16,"Cosmos Arena, Samara",Brazil,2,0,Mexico,Gianluca Rocchi (Italy),BRA,MEX
+2018,Round of 16,"Rostov Arena, Rostov-on-Don",Belgium,3,2,Japan,Malang Diedhiou (Senegal),BEL,JPN
+2018,Round of 16,"Krestovsky Stadium, Saint Petersburg",Sweden,1,0,Switzerland,Damir Skomina (Slovenia),SWE,SUI
+2018,Round of 16,"Otkritie Arena, Moscow",Colombia,1,1,England,Mark Geiger (United States),COL,ENG
+2018,Quarter-finals,"Nizhny Novgorod Stadium, Nizhny Novgorod",Uruguay,0,2,France,Néstor Pitana (Argentina),URU,FRA
+2018,Quarter-finals,"Kazan Arena, Kazan",Brazil,1,2,Belgium,Milorad Maži? (Serbia),BRA,BEL
+2018,Quarter-finals,"Cosmos Arena, Samara",Sweden,0,2,England,Björn Kuipers (Netherlands),SWE,ENG
+2018,Quarter-finals,"Fisht Olympic Stadium, Sochi",Russia,2,2,Croatia,Sandro Ricci (Brazil),RUS,CRO
+2018,Semi-finals,"Krestovsky Stadium, Saint Petersburg",France,1,0,Belgium,Andrés Cunha (Uruguay),FRA,BEL
+2018,Semi-finals,"Luzhniki Stadium, Moscow",Croatia,2,1,England,Cüneyt Çak?r (Turkey),CRO,ENG
+2018,Third place,"Krestovsky Stadium, Saint Petersburg",Belgium,2,0,England,Alireza Faghani (Iran),BEL,ENG
+2018,Final,"Luzhniki Stadium, Moscow",France,4,2,Croatia,Néstor Pitana (Argentina),FRA,CRO
